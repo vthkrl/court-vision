@@ -63,7 +63,7 @@ main {
 .arena {
   flex: 1;
   display: flex;
-  gap: 2.5rem;
+  gap: 7.5rem;
   padding: 1.5rem 2rem;
   align-items: center;
   justify-content: center;
