@@ -1,0 +1,10 @@
+# build artifacts — don't commit, regenerate with build_player_pool.py
+awards_cache.json
+career_stats_cache.parquet
+career_stats_cache.json
+
+# player_pool.json IS committed — Cloudflare Pages serves it as a static asset
+
+__pycache__/
+*.pyc
+.env
