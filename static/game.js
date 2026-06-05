@@ -371,22 +371,21 @@ async function handleWrong() {
 function shareScore() {
   const score = state.score;
   const tier  = getTier(score);
-  const emoji = { catastrophic: '💀', rough: '😬', decent: '🏀', good: '🔥', great: '💯', legendary: '🐐' }[tier] || '🏀';
-  const text  = `${emoji} Courtguessr streak: ${score}\n${SITE_URL}`;
+  const emoji   = { catastrophic: '💀', rough: '😬', decent: '🏀', good: '🔥', great: '💯', legendary: '🐐' }[tier] || '🏀';
+  const message = `${emoji} CourtGuessr streak: ${score}`;
 
-  const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
-
-  // Try Web Share API first (mobile), fall back to Twitter, then clipboard
+  // Try Web Share API first (mobile) — passes url separately so it's not duplicated
   if (navigator.share) {
-    navigator.share({ title: 'Courtguessr', text, url: SITE_URL }).catch(() => {});
+    navigator.share({ title: 'CourtGuessr', text: message, url: SITE_URL }).catch(() => {});
     return;
   }
 
-  // Open Twitter/X share sheet in a popup
+  // Desktop: open Twitter/X share sheet (URL goes in tweet text)
+  const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(message + '\n' + SITE_URL)}`;
   window.open(tweetUrl, '_blank', 'width=560,height=420,noopener');
 
   // Also copy to clipboard silently
-  navigator.clipboard?.writeText(text).then(() => {
+  navigator.clipboard?.writeText(`${message}\n${SITE_URL}`).then(() => {
     el.shareConfirm.classList.remove('hidden');
     setTimeout(() => el.shareConfirm.classList.add('hidden'), 2500);
   }).catch(() => {});
