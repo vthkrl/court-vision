@@ -92,8 +92,18 @@ function pickTwo(excludeIds = []) {
   return [pool[i], pool[j]];
 }
 
-function pickStat(exclude = null) {
-  const choices = exclude ? STATS.filter(s => s !== exclude) : STATS;
+const PRE74_EXCLUDED = new Set(['SPG', 'BPG', 'STL', 'BLK']);
+
+function pre74(player) {
+  return player && player.to_year > 0 && player.to_year < 1974;
+}
+
+function pickStat(excludeLast = null, left = null, right = null) {
+  let choices = STATS;
+  if (excludeLast) choices = choices.filter(s => s !== excludeLast);
+  if (pre74(left) || pre74(right)) choices = choices.filter(s => !PRE74_EXCLUDED.has(s));
+  // safety: if filtering removed everything, fall back to excluding only the last stat
+  if (!choices.length) choices = excludeLast ? STATS.filter(s => s !== excludeLast) : STATS;
   return choices[Math.floor(Math.random() * choices.length)];
 }
 
@@ -145,7 +155,7 @@ const el = {
 
 function playerMeta(p) {
   if (p.is_active) return p.team ? `${p.team} \u2022 Active` : 'Active';
-  if (p.from_year && p.to_year) return `${p.from_year} \u2013 ${p.to_year}`;
+  if (p.from_year && p.to_year) return `Played from ${p.from_year}\u2013${p.to_year}`;
   return 'Retired';
 }
 
@@ -237,7 +247,7 @@ async function startGame() {
   setButtons(false);
 
   const [p1, p2] = pickTwo();
-  const stat      = pickStat();
+  const stat      = pickStat(null, p1, p2);
   const statLabel = STAT_LABELS[stat];
 
   state.leftPlayer  = p1;
@@ -314,7 +324,7 @@ async function handleCorrect(leftVal, rightVal) {
   state.leftPlayer  = newLeft;
   state.rightPlayer = newRight;
 
-  const nextStat = pickStat(state.stat);
+  const nextStat = pickStat(state.stat, newLeft, newRight);
   state.stat     = nextStat;
 
   renderLeft(newLeft, formatVal(nextStat, newLeft.stats[nextStat]));

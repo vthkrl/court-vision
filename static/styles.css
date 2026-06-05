@@ -58,9 +58,20 @@ header, main, .overlay { position: relative; z-index: 1; }
 header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 1rem 1.75rem;
   flex-shrink: 0;
 }
+
+.header-x-link {
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.header-x-link:hover { color: var(--text); }
+.header-x-link svg { width: 17px; height: 17px; display: block; }
 
 .logo {
   font-size: 1rem;
@@ -298,9 +309,10 @@ main {
 }
 
 .go-caption {
-  font-size: 0.7rem;
-  color: var(--muted);
-  letter-spacing: 0.05em;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.02em;
   display: none;
   margin-top: -0.2rem;
 }
