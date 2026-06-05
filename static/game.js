@@ -117,11 +117,14 @@ const ALL_STAT_LABELS = Object.values(STAT_LABELS);
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
 
+const SITE_URL = 'https://courtguessr.xyz';
+
 const el = {
-  score:      document.getElementById('score'),
-  goGif:      document.getElementById('go-gif'),
-  goCaption:  document.getElementById('go-caption'),
-  statLabel:  document.getElementById('stat-label'),
+  score:        document.getElementById('score'),
+  goGif:        document.getElementById('go-gif'),
+  goCaption:    document.getElementById('go-caption'),
+  shareConfirm: document.getElementById('share-confirm'),
+  statLabel:    document.getElementById('stat-label'),
   leftImg:    document.getElementById('left-img'),
   leftName:   document.getElementById('left-name'),
   leftMeta:   document.getElementById('left-team'),
@@ -217,6 +220,7 @@ function animateStat(finalLabel) {
 
 async function startGame() {
   el.overlay.classList.add('hidden');
+  el.shareConfirm.classList.add('hidden');
   state.score      = 0;
   state.leftRounds = 1;
   el.score.textContent = 0;
@@ -337,6 +341,32 @@ async function handleWrong() {
 
   el.overlay.classList.remove('hidden');
   state.busy = false;
+}
+
+// ── Share ─────────────────────────────────────────────────────────────────────
+
+function shareScore() {
+  const score = state.score;
+  const tier  = getTier(score);
+  const emoji = { catastrophic: '💀', rough: '😬', decent: '🏀', good: '🔥', great: '💯', legendary: '🐐' }[tier] || '🏀';
+  const text  = `${emoji} Courtguessr streak: ${score}\n${SITE_URL}`;
+
+  const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
+
+  // Try Web Share API first (mobile), fall back to Twitter, then clipboard
+  if (navigator.share) {
+    navigator.share({ title: 'Courtguessr', text, url: SITE_URL }).catch(() => {});
+    return;
+  }
+
+  // Open Twitter/X share sheet in a popup
+  window.open(tweetUrl, '_blank', 'width=560,height=420,noopener');
+
+  // Also copy to clipboard silently
+  navigator.clipboard?.writeText(text).then(() => {
+    el.shareConfirm.classList.remove('hidden');
+    setTimeout(() => el.shareConfirm.classList.add('hidden'), 2500);
+  }).catch(() => {});
 }
 
 // ── Init ──────────────────────────────────────────────────────────────────────

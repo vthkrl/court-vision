@@ -3,13 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Court Vision</title>
+  <title>Courtguessr</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/static/styles.css" />
 </head>
 <body>
 
   <header>
-    <div class="logo">Court Vision</div>
+    <div class="logo">Courtguessr</div>
   </header>
 
   <main id="game">
@@ -54,7 +57,11 @@
       <p class="go-caption" id="go-caption"></p>
       <p class="go-streak">Final streak</p>
       <p class="go-score" id="final-score">0</p>
-      <button class="restart-btn" onclick="startGame()">Play again</button>
+      <div class="go-actions">
+        <button class="restart-btn" onclick="startGame()">Play again</button>
+        <button class="share-btn" id="share-btn" onclick="shareScore()">Share</button>
+      </div>
+      <p class="share-confirm hidden" id="share-confirm">Copied!</p>
     </div>
   </div>
 
