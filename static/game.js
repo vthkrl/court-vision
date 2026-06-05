@@ -169,6 +169,7 @@ function renderRight(player) {
   el.rightName.textContent = player.name;
   el.rightMeta.textContent = playerMeta(player);
   el.rightVal.textContent  = '???';
+  el.rightVal.classList.remove('revealed');
   el.rightVal.classList.add('hidden-val');
 }
 
@@ -183,7 +184,7 @@ const delay = ms => new Promise(r => setTimeout(r, ms));
 
 // ── Slot machine ──────────────────────────────────────────────────────────────
 
-const TICK_DELAYS = [55, 60, 65, 70, 75, 85, 95, 110, 130, 160, 200, 260, 340];
+const TICK_DELAYS = [40, 45, 50, 55, 65, 80, 110, 160, 235, 330];
 
 function animateStat(finalLabel) {
   return new Promise(resolve => {
@@ -270,16 +271,15 @@ async function handleCorrect(leftVal, rightVal) {
   state.score++;
   el.score.textContent = state.score;
 
-  const nextStat      = pickStat(state.stat);
-  const nextStatLabel = STAT_LABELS[nextStat];
-  const slotDone      = animateStat(nextStatLabel);
+  // Let the green flash breathe before anything else moves
+  await delay(900);
 
-  await delay(1000);
+  // Fade panels out
   el.panelLeft.style.opacity  = '0';
   el.panelRight.style.opacity = '0';
-  await delay(280);
+  await delay(250); // matches CSS transition: opacity 0.25s
 
-  // Determine next left player
+  // Swap content while invisible
   const winner = (rightVal >= leftVal) ? state.rightPlayer : state.leftPlayer;
   let newLeft, newRight;
 
@@ -296,15 +296,20 @@ async function handleCorrect(leftVal, rightVal) {
 
   state.leftPlayer  = newLeft;
   state.rightPlayer = newRight;
-  state.stat        = nextStat;
+
+  const nextStat = pickStat(state.stat);
+  state.stat     = nextStat;
 
   renderLeft(newLeft, formatVal(nextStat, newLeft.stats[nextStat]));
   renderRight(newRight);
   clearFlash();
+
+  // Fade panels back in, then run the slot so nothing overlaps
   el.panelLeft.style.opacity  = '1';
   el.panelRight.style.opacity = '1';
+  await delay(250); // wait for fade-in to settle
 
-  await slotDone;
+  await animateStat(STAT_LABELS[nextStat]);
   setButtons(true);
   state.busy = false;
 }

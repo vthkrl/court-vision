@@ -15,7 +15,7 @@ html, body { height: 100%; }
 
 body {
   background-color: var(--bg);
-  background-image: url('/assets/court.webp');
+  background-image: url('/assets/court_image.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
