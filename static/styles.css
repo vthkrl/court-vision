@@ -452,9 +452,9 @@ footer p {
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  background: rgba(74, 222, 128, 0.12);
-  border: 1px solid rgba(74, 222, 128, 0.35);
-  color: #4ade80;
+  background: radial-gradient(ellipse at center, #2d6a4a 0%, #1a3d2b 100%);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+  color: #fff;
   font-size: 0.8rem;
   font-weight: 800;
   letter-spacing: 0.1em;
