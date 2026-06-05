@@ -159,6 +159,16 @@ function loadImg(imgEl, id) {
   imgEl.onerror = () => { imgEl.src = ''; imgEl.onerror = null; };
 }
 
+// Preloads a headshot into the browser cache; resolves when done or after 800ms.
+function preloadImg(id) {
+  return new Promise(resolve => {
+    const img = new Image();
+    img.onload = img.onerror = resolve;
+    img.src = HEADSHOT(id);
+    setTimeout(resolve, 800);
+  });
+}
+
 function renderLeft(player, statDisplay) {
   loadImg(el.leftImg, player.id);
   el.leftName.textContent = player.name;
@@ -283,7 +293,7 @@ async function handleCorrect(leftVal, rightVal) {
   el.panelRight.style.opacity = '0';
   await delay(250); // matches CSS transition: opacity 0.25s
 
-  // Swap content while invisible
+  // Pick next players while invisible, then preload their headshots
   const winner = (rightVal >= leftVal) ? state.rightPlayer : state.leftPlayer;
   let newLeft, newRight;
 
@@ -297,6 +307,9 @@ async function handleCorrect(leftVal, rightVal) {
       ? state.leftRounds + 1
       : 1;
   }
+
+  // Preload both headshots while panels are still invisible (capped at 800ms)
+  await Promise.all([preloadImg(newLeft.id), preloadImg(newRight.id)]);
 
   state.leftPlayer  = newLeft;
   state.rightPlayer = newRight;
@@ -369,6 +382,19 @@ function shareScore() {
   }).catch(() => {});
 }
 
+// ── Disclaimer ────────────────────────────────────────────────────────────────
+
+function dismissDisclaimer() {
+  document.getElementById('disclaimer').classList.add('hidden');
+  try { localStorage.setItem('cg_disclaimer_seen', '1'); } catch {}
+}
+
 // ── Init ──────────────────────────────────────────────────────────────────────
+
+try {
+  if (!localStorage.getItem('cg_disclaimer_seen')) {
+    document.getElementById('disclaimer').classList.remove('hidden');
+  }
+} catch {}
 
 loadPool().then(startGame);
