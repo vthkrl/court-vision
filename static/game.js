@@ -260,8 +260,6 @@ async function startGame() {
   renderLeft(p1, formatVal(stat, p1.stats[stat]));
   renderRight(p2);
   clearFlash();
-  el.panelLeft.style.opacity  = '1';
-  el.panelRight.style.opacity = '1';
 
   setButtons(true);
   state.busy = false;
@@ -296,15 +294,14 @@ async function handleCorrect(leftVal, rightVal) {
   state.score++;
   el.score.textContent = state.score;
 
-  // Let the green flash breathe before anything else moves
-  await delay(900);
+  await delay(800);
 
-  // Fade panels out
-  el.panelLeft.style.opacity  = '0';
-  el.panelRight.style.opacity = '0';
-  await delay(250); // matches CSS transition: opacity 0.25s
+  // Show loading overlay (fades in over 200ms via CSS transition)
+  el.panelLeft.classList.add('loading');
+  el.panelRight.classList.add('loading');
+  await delay(200);
 
-  // Pick next players while invisible, then preload their headshots
+  // Pick next players
   const winner = (rightVal >= leftVal) ? state.rightPlayer : state.leftPlayer;
   let newLeft, newRight;
 
@@ -319,23 +316,25 @@ async function handleCorrect(leftVal, rightVal) {
       : 1;
   }
 
-  // Preload both headshots while panels are still invisible (capped at 800ms)
-  await Promise.all([preloadImg(newLeft.id), preloadImg(newRight.id)]);
+  // Preload headshots and update content behind the loader simultaneously
+  const nextStat = pickStat(state.stat, newLeft, newRight);
+  await Promise.race([
+    Promise.all([preloadImg(newLeft.id), preloadImg(newRight.id)]),
+    delay(700),
+  ]);
 
   state.leftPlayer  = newLeft;
   state.rightPlayer = newRight;
-
-  const nextStat = pickStat(state.stat, newLeft, newRight);
-  state.stat     = nextStat;
+  state.stat        = nextStat;
 
   renderLeft(newLeft, formatVal(nextStat, newLeft.stats[nextStat]));
   renderRight(newRight);
   clearFlash();
 
-  // Fade panels back in, then run the slot so nothing overlaps
-  el.panelLeft.style.opacity  = '1';
-  el.panelRight.style.opacity = '1';
-  await delay(250); // wait for fade-in to settle
+  // Fade loader out — new content revealed underneath
+  el.panelLeft.classList.remove('loading');
+  el.panelRight.classList.remove('loading');
+  await delay(200);
 
   await animateStat(STAT_LABELS[nextStat]);
   setButtons(true);
@@ -396,15 +395,8 @@ function shareScore() {
 
 function dismissDisclaimer() {
   document.getElementById('disclaimer').classList.add('hidden');
-  try { localStorage.setItem('cg_disclaimer_seen', '1'); } catch {}
 }
 
 // ── Init ──────────────────────────────────────────────────────────────────────
-
-try {
-  if (!localStorage.getItem('cg_disclaimer_seen')) {
-    document.getElementById('disclaimer').classList.remove('hidden');
-  }
-} catch {}
 
 loadPool().then(startGame);

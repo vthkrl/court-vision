@@ -21,6 +21,7 @@
     <div class="arena">
 
       <div class="panel" id="panel-left">
+        <div class="panel-loader"><div class="spinner"></div></div>
         <img class="headshot" id="left-img" src="" alt="" />
         <div class="player-name" id="left-name">—</div>
         <div class="player-meta" id="left-team">—</div>
@@ -40,6 +41,7 @@
       </div>
 
       <div class="panel" id="panel-right">
+        <div class="panel-loader"><div class="spinner"></div></div>
         <img class="headshot" id="right-img" src="" alt="" />
         <div class="player-name" id="right-name">—</div>
         <div class="player-meta" id="right-team">—</div>
@@ -82,10 +84,13 @@
     <p>CourtGuessr is an independent project and is not affiliated with, endorsed by, or sponsored by the National Basketball Association.</p>
   </footer>
 
-  <div class="disclaimer-overlay hidden" id="disclaimer">
+  <div class="disclaimer-overlay" id="disclaimer">
     <div class="disclaimer-box">
+      <p class="disclaimer-heading">How to play</p>
+      <p class="disclaimer-body">You'll be presented with 2 randomized players and a randomized stat category (career total PTS, REB, AST, STL, BLK, career game averages, or All-NBA/All-Defensive selections). Pick the player you think has a higher stat value!</p>
+      <div class="disclaimer-divider"></div>
       <p class="disclaimer-heading">Heads up</p>
-      <p class="disclaimer-body">The NBA didn't officially track <strong>steals or blocks</strong> until the <strong>1973–74 season</strong>, and the <strong>3 point line</strong> was adopted in the <strong>1979-80 season</strong>. Players who retired before those respective seasons will not show up in comparisons for those stats.</p>
+      <p class="disclaimer-body">The NBA didn't officially track <strong>steals or blocks</strong> until the <strong>1973–74 season</strong>, and the <strong>3-point line</strong> was adopted in the <strong>1979–80 season</strong>. Players who retired before those seasons won't appear in comparisons for those stats.</p>
       <button class="disclaimer-btn" onclick="dismissDisclaimer()">Got it</button>
     </div>
   </div>
