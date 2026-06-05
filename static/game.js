@@ -206,6 +206,16 @@ function clearFlash() {
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 
+const CORRECT_MESSAGES = ['Nice!', "That's right!", 'Correct!', 'You got it!', 'Good eye!', 'Easy money.', 'Buckets.'];
+
+function showCorrectToast() {
+  const toast = document.getElementById('correct-toast');
+  toast.textContent = CORRECT_MESSAGES[Math.floor(Math.random() * CORRECT_MESSAGES.length)];
+  toast.classList.remove('show');
+  void toast.offsetWidth;
+  toast.classList.add('show');
+}
+
 // ── Slot machine ──────────────────────────────────────────────────────────────
 
 const TICK_DELAYS = [40, 45, 50, 55, 65, 80, 110, 160, 235, 330];
@@ -293,6 +303,7 @@ async function handleCorrect(leftVal, rightVal) {
   el.panelRight.classList.add('flash-correct');
   state.score++;
   el.score.textContent = state.score;
+  showCorrectToast();
 
   await delay(800);
 
