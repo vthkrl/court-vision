@@ -1,12 +1,12 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg:      #0d0d0d;
-  --panel:   #1e1e1e;
-  --border:  #262626;
+  --bg:      #0a0a0a;
+  --panel:   rgba(15, 15, 15, 0.82);
+  --border:  rgba(255, 255, 255, 0.08);
   --red:     #e53e3e;
   --red-d:   #b91c1c;
-  --text:    #efefef;
+  --text:    #f0f0f0;
   --muted:   #888;
   --wrong:   #ef4444;
 }
@@ -30,7 +30,7 @@ body::before {
   content: '';
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.72);
+  background: rgba(0, 0, 0, 0.58);
   z-index: 0;
   pointer-events: none;
 }
@@ -41,94 +41,76 @@ header, main, .overlay { position: relative; z-index: 1; }
 header {
   display: flex;
   align-items: center;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 1.75rem;
   flex-shrink: 0;
 }
 
 .logo {
-  font-size: 1.1rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--text);
-}
-
-/* ── Streak (lives in divider) ── */
-.streak-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.05rem;
-}
-.streak-label {
-  font-size: 0.55rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--red);
-  font-weight: 700;
-}
-.streak-num {
-  font-size: 3rem;
+  font-size: 1rem;
   font-weight: 900;
-  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--text);
-  line-height: 1;
 }
 
 /* ── Main / Arena ── */
 main {
   flex: 1;
   min-height: 0;
+  display: flex;
 }
 
 .arena {
+  flex: 1;
   display: flex;
-  height: 100%;
-  gap: 1.5rem;
-  padding: 1.5rem;
-  align-items: stretch;
+  gap: 1.25rem;
+  padding: 1.5rem 2rem;
+  align-items: center;
+  justify-content: center;
 }
 
 /* ── Player panels ── */
 .panel {
-  flex: 1;
+  width: 230px;
+  flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 0.55rem;
-  padding: 1.75rem 1.5rem;
+  gap: 0.45rem;
+  padding: 1.5rem 1.25rem 1.25rem;
   background: var(--panel);
-  border-radius: 8px;
-  min-width: 0;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--border);
+  border-radius: 16px;
   transition: opacity 0.25s, box-shadow 0.3s;
 }
 
-.panel.flash-correct { box-shadow: 0 0 40px rgba(74, 222, 128, 0.35); }
-.panel.flash-wrong   { box-shadow: 0 0 40px rgba(239, 68,  68,  0.35); }
+.panel.flash-correct { box-shadow: 0 0 48px rgba(74, 222, 128, 0.4); }
+.panel.flash-wrong   { box-shadow: 0 0 48px rgba(239, 68,  68,  0.4); }
 
 /* ── Headshot ── */
 .headshot {
-  width: 120px;
-  height: 95px;
+  width: 108px;
+  height: 86px;
   object-fit: cover;
   object-position: top center;
-  background: #2a2a2a;
+  background: #1a1a1a;
   display: block;
-  border-radius: 6px;
-  margin-bottom: 0.3rem;
+  border-radius: 8px;
+  margin-bottom: 0.25rem;
 }
 
 /* ── Player info ── */
 .player-name {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-weight: 700;
   text-align: center;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
 .player-meta {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--muted);
@@ -136,17 +118,16 @@ main {
 
 /* ── Stat number ── */
 .stat-num {
-  font-size: 2.4rem;
-  font-weight: 800;
+  font-size: 2rem;
+  font-weight: 900;
   font-variant-numeric: tabular-nums;
-  font-family: 'Courier New', 'Consolas', monospace;
   color: var(--red);
   line-height: 1;
-  margin: 0.4rem 0 0.6rem;
+  margin: 0.35rem 0 0.5rem;
 }
 
 .stat-num.hidden-val {
-  color: #333;
+  color: #2e2e2e;
   letter-spacing: 0.15em;
 }
 
@@ -162,45 +143,70 @@ main {
 
 /* ── Pick button ── */
 .pick-btn {
+  width: 100%;
   background: transparent;
   color: var(--red);
-  border: 1px solid var(--red);
-  padding: 0.6rem 1.6rem;
-  font-size: 0.85rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  border: 1px solid rgba(229, 62, 62, 0.5);
+  padding: 0.55rem 0;
+  font-size: 0.75rem;
+  font-weight: 700;
+  font-family: 'Figtree', system-ui, sans-serif;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   cursor: pointer;
-  border-radius: 3px;
-  transition: background 0.15s, color 0.15s;
+  border-radius: 8px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
 }
 
 .pick-btn:hover:not(:disabled) {
   background: var(--red);
+  border-color: var(--red);
   color: #fff;
 }
 
 .pick-btn:disabled {
-  opacity: 0.25;
+  opacity: 0.2;
   cursor: not-allowed;
+}
+
+/* ── Streak (lives in divider) ── */
+.streak-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05rem;
+}
+.streak-label {
+  font-size: 0.5rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--red);
+  font-weight: 700;
+}
+.streak-num {
+  font-size: 2.8rem;
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  line-height: 1;
 }
 
 /* ── Center divider ── */
 .divider {
-  width: 200px;
+  width: 160px;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0.9rem;
+  gap: 0.85rem;
   text-align: center;
 }
 
 .vs-text {
-  font-size: 0.6rem;
+  font-size: 0.55rem;
   font-weight: 700;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--muted);
 }
@@ -208,14 +214,14 @@ main {
 .center-stat {
   background: #fff;
   color: #000;
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  font-weight: 800;
+  font-family: 'Figtree', system-ui, sans-serif;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   line-height: 1.4;
-  padding: 0.6rem 0.9rem;
-  border-radius: 4px;
-  overflow: hidden;
+  padding: 0.5rem 0.85rem;
+  border-radius: 6px;
 }
 
 .center-stat.slot-tick {
@@ -241,7 +247,7 @@ main {
 .overlay {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.82);
+  background: rgba(0, 0, 0, 0.78);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -250,28 +256,32 @@ main {
 .overlay.hidden { display: none; }
 
 .overlay-box {
-  background: var(--panel);
+  background: rgba(14, 14, 14, 0.92);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
   border: 1px solid var(--border);
-  padding: 2.5rem 3.5rem;
+  padding: 2.25rem 3rem;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.4rem;
-  border-radius: 4px;
+  border-radius: 18px;
+  max-width: 360px;
+  width: calc(100% - 2rem);
 }
 
 .go-gif {
-  width: 280px;
-  max-height: 200px;
+  width: 260px;
+  max-height: 185px;
   object-fit: cover;
   display: none;
-  border-radius: 3px;
+  border-radius: 8px;
   margin-top: 0.5rem;
 }
 
 .go-caption {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   color: var(--muted);
   letter-spacing: 0.05em;
   display: none;
@@ -279,69 +289,87 @@ main {
 }
 
 .go-label {
-  font-size: 0.65rem;
-  font-weight: 700;
-  letter-spacing: 0.25em;
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.28em;
   text-transform: uppercase;
   color: var(--wrong);
 }
 .go-streak {
-  font-size: 0.65rem;
-  letter-spacing: 0.15em;
+  font-size: 0.6rem;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--muted);
-  margin-top: 0.6rem;
+  margin-top: 0.5rem;
 }
 .go-score {
   font-size: 5rem;
-  font-weight: 800;
+  font-weight: 900;
   font-variant-numeric: tabular-nums;
-  font-family: 'Courier New', monospace;
   color: var(--red);
   line-height: 1;
-  margin: 0.25rem 0 1rem;
-}
-.go-actions {
-  display: flex;
-  gap: 0.75rem;
-  justify-content: center;
-  flex-wrap: wrap;
+  margin: 0.2rem 0 0.9rem;
 }
 
-.restart-btn, .share-btn {
+/* ── Game over actions ── */
+.go-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  justify-content: center;
+}
+
+.restart-btn {
   background: transparent;
-  padding: 0.6rem 1.8rem;
-  font-size: 0.8rem;
-  font-weight: 600;
+  color: var(--text);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0.55rem 1.6rem;
+  font-size: 0.75rem;
+  font-weight: 700;
   font-family: 'Figtree', system-ui, sans-serif;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   cursor: pointer;
-  border-radius: 3px;
-  transition: border-color 0.15s, background 0.15s, color 0.15s;
+  border-radius: 8px;
+  transition: border-color 0.15s, background 0.15s;
+}
+.restart-btn:hover {
+  border-color: rgba(255, 255, 255, 0.45);
+  background: rgba(255, 255, 255, 0.05);
 }
 
-.restart-btn {
-  color: var(--text);
-  border: 1px solid var(--border);
-}
-.restart-btn:hover { border-color: var(--text); }
-
+/* X / share icon button */
 .share-btn {
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid rgba(229, 62, 62, 0.5);
   color: var(--red);
-  border: 1px solid var(--red);
+  border-radius: 50%;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
 }
 .share-btn:hover {
   background: var(--red);
+  border-color: var(--red);
   color: #fff;
 }
+.share-btn svg { width: 14px; height: 14px; display: block; }
+
+/* show X logo on desktop, share arrow on mobile */
+.icon-share { display: none; }
+.icon-x     { display: block; }
 
 .share-confirm {
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   color: #4ade80;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  margin-top: -0.2rem;
+  margin-top: 0.1rem;
 }
 .share-confirm.hidden { display: none; }
 
@@ -350,7 +378,12 @@ main {
   .arena {
     flex-direction: column;
     padding: 1rem;
-    gap: 1rem;
+    gap: 0.85rem;
+  }
+
+  .panel {
+    width: 100%;
+    max-width: 340px;
   }
 
   .divider {
@@ -358,10 +391,14 @@ main {
     flex-direction: row;
     justify-content: center;
     gap: 1.5rem;
-    padding: 0.5rem 0;
+    padding: 0.25rem 0;
   }
 
-  .stat-num { font-size: 2.4rem; }
-  .player-name { font-size: 1.3rem; }
+  .stat-num { font-size: 2rem; }
+  .player-name { font-size: 1.1rem; }
   .overlay-box { padding: 2rem 1.5rem; }
+
+  /* swap icons on mobile */
+  .icon-x     { display: none; }
+  .icon-share { display: block; }
 }
