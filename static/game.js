@@ -93,15 +93,16 @@ function pickTwo(excludeIds = []) {
 }
 
 const PRE74_EXCLUDED = new Set(['SPG', 'BPG', 'STL', 'BLK']);
+const PRE80_EXCLUDED = new Set(['FG3M', 'FG3_PCT']);
 
-function pre74(player) {
-  return player && player.to_year > 0 && player.to_year < 1974;
-}
+function pre74(player) { return player && player.to_year > 0 && player.to_year < 1974; }
+function pre80(player) { return player && player.to_year > 0 && player.to_year < 1980; }
 
 function pickStat(excludeLast = null, left = null, right = null) {
   let choices = STATS;
   if (excludeLast) choices = choices.filter(s => s !== excludeLast);
   if (pre74(left) || pre74(right)) choices = choices.filter(s => !PRE74_EXCLUDED.has(s));
+  if (pre80(left) || pre80(right)) choices = choices.filter(s => !PRE80_EXCLUDED.has(s));
   // safety: if filtering removed everything, fall back to excluding only the last stat
   if (!choices.length) choices = excludeLast ? STATS.filter(s => s !== excludeLast) : STATS;
   return choices[Math.floor(Math.random() * choices.length)];
