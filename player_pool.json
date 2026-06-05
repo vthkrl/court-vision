@@ -425,31 +425,6 @@
     }
   },
   {
-    "id": 76027,
-    "name": "Lucius Allen",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 13.4,
-      "RPG": 3.1,
-      "APG": 4.5,
-      "SPG": 0.9,
-      "BPG": 0.2,
-      "PTS": 9407,
-      "REB": 2205,
-      "AST": 3174,
-      "STL": 604,
-      "BLK": 124,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 951,
     "name": "Ray Allen",
     "team": "---",
@@ -700,31 +675,6 @@
     }
   },
   {
-    "id": 76046,
-    "name": "Ron Anderson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1984,
-    "to_year": 1993,
-    "stats": {
-      "PPG": 10.6,
-      "RPG": 3.5,
-      "APG": 1.4,
-      "SPG": 0.7,
-      "BPG": 0.1,
-      "PTS": 7056,
-      "REB": 2312,
-      "AST": 952,
-      "STL": 470,
-      "BLK": 90,
-      "FG3M": 105,
-      "FG3_PCT": 28.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 201583,
     "name": "Ryan Anderson",
     "team": "---",
@@ -769,31 +719,6 @@
       "BLK": 180,
       "FG3M": 307,
       "FG3_PCT": 31.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 335,
-    "name": "Willie Anderson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1988,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 12.2,
-      "RPG": 3.8,
-      "APG": 3.8,
-      "SPG": 1.1,
-      "BPG": 0.6,
-      "PTS": 6771,
-      "REB": 2082,
-      "AST": 2105,
-      "STL": 594,
-      "BLK": 342,
-      "FG3M": 99,
-      "FG3_PCT": 26.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -1100,31 +1025,6 @@
     }
   },
   {
-    "id": 76070,
-    "name": "Alvin Attles",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 8.9,
-      "RPG": 3.5,
-      "APG": 3.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6328,
-      "REB": 2463,
-      "AST": 2483,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 278,
     "name": "Stacey Augmon",
     "team": "---",
@@ -1197,31 +1097,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 76078,
-    "name": "Dennis Awtrey",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1970,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 4.8,
-      "RPG": 4.6,
-      "APG": 2.0,
-      "SPG": 0.3,
-      "BPG": 0.2,
-      "PTS": 3516,
-      "REB": 3342,
-      "AST": 1467,
-      "STL": 186,
-      "BLK": 182,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -1319,31 +1194,6 @@
       "BLK": 49,
       "FG3M": 137,
       "FG3_PCT": 34.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76085,
-    "name": "James Bailey",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 8.8,
-      "RPG": 5.0,
-      "APG": 0.8,
-      "SPG": 0.5,
-      "BPG": 0.9,
-      "PTS": 5246,
-      "REB": 2988,
-      "AST": 488,
-      "STL": 305,
-      "BLK": 521,
-      "FG3M": 1,
-      "FG3_PCT": 7.7,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -1525,56 +1375,6 @@
     }
   },
   {
-    "id": 76093,
-    "name": "Gene Banks",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 11.3,
-      "RPG": 5.8,
-      "APG": 2.9,
-      "SPG": 0.9,
-      "BPG": 0.2,
-      "PTS": 5305,
-      "REB": 2718,
-      "AST": 1335,
-      "STL": 436,
-      "BLK": 101,
-      "FG3M": 2,
-      "FG3_PCT": 4.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76095,
-    "name": "Mike Bantom",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 12.1,
-      "RPG": 6.4,
-      "APG": 2.3,
-      "SPG": 0.9,
-      "BPG": 0.7,
-      "PTS": 8568,
-      "REB": 4517,
-      "AST": 1623,
-      "STL": 630,
-      "BLK": 478,
-      "FG3M": 3,
-      "FG3_PCT": 20.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1630625,
     "name": "Dalano Banton",
     "team": "BOS",
@@ -1750,31 +1550,6 @@
     }
   },
   {
-    "id": 76105,
-    "name": "Jim Barnes",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 8.8,
-      "RPG": 6.5,
-      "APG": 0.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 3997,
-      "REB": 2939,
-      "AST": 377,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 2440,
     "name": "Matt Barnes",
     "team": "---",
@@ -1847,31 +1622,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 76106,
-    "name": "Jim Barnett",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 11.7,
-      "RPG": 3.1,
-      "APG": 3.0,
-      "SPG": 0.2,
-      "BPG": 0.0,
-      "PTS": 8536,
-      "REB": 2259,
-      "AST": 2232,
-      "STL": 131,
-      "BLK": 30,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -2275,31 +2025,6 @@
     }
   },
   {
-    "id": 76130,
-    "name": "Butch Beard",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 9.3,
-      "RPG": 3.4,
-      "APG": 3.6,
-      "SPG": 0.8,
-      "BPG": 0.1,
-      "PTS": 5622,
-      "REB": 2042,
-      "AST": 2189,
-      "STL": 499,
-      "BLK": 36,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 201563,
     "name": "Michael Beasley",
     "team": "---",
@@ -2322,31 +2047,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76133,
-    "name": "Zelmo Beaty",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 16.0,
-      "RPG": 10.4,
-      "APG": 1.5,
-      "SPG": 0.1,
-      "BPG": 0.1,
-      "PTS": 9107,
-      "REB": 5949,
-      "AST": 839,
-      "STL": 45,
-      "BLK": 29,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
     }
   },
   {
@@ -2425,31 +2125,6 @@
     }
   },
   {
-    "id": 76144,
-    "name": "Walt Bellamy",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1961,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 20.1,
-      "RPG": 13.7,
-      "APG": 2.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 20941,
-      "REB": 14241,
-      "AST": 2544,
-      "STL": 52,
-      "BLK": 48,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 104,
     "name": "Benoit Benjamin",
     "team": "---",
@@ -2469,31 +2144,6 @@
       "BLK": 1581,
       "FG3M": 1,
       "FG3_PCT": 4.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76154,
-    "name": "Kent Benson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 9.1,
-      "RPG": 5.7,
-      "APG": 1.8,
-      "SPG": 0.9,
-      "BPG": 0.9,
-      "PTS": 6168,
-      "REB": 3881,
-      "AST": 1203,
-      "STL": 605,
-      "BLK": 586,
-      "FG3M": 7,
-      "FG3_PCT": 20.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -2569,31 +2219,6 @@
       "BLK": 61,
       "FG3M": 801,
       "FG3_PCT": 35.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76162,
-    "name": "Henry Bibby",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 8.6,
-      "RPG": 2.3,
-      "APG": 3.3,
-      "SPG": 0.8,
-      "BPG": 0.1,
-      "PTS": 5775,
-      "REB": 1581,
-      "AST": 2259,
-      "STL": 561,
-      "BLK": 34,
-      "FG3M": 43,
-      "FG3_PCT": 29.3,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -2975,56 +2600,6 @@
     }
   },
   {
-    "id": 76187,
-    "name": "John Block",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 11.9,
-      "RPG": 6.6,
-      "APG": 1.3,
-      "SPG": 0.2,
-      "BPG": 0.1,
-      "PTS": 7106,
-      "REB": 3965,
-      "AST": 805,
-      "STL": 111,
-      "BLK": 67,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 76191,
-    "name": "Arlen Bockhorn",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1964,
-    "stats": {
-      "PPG": 11.5,
-      "RPG": 4.7,
-      "APG": 3.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5430,
-      "REB": 2234,
-      "AST": 1645,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 202711,
     "name": "Bojan Bogdanovic",
     "team": "---",
@@ -3222,31 +2797,6 @@
       "ALL_NBA": 2,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 5
-    }
-  },
-  {
-    "id": 76206,
-    "name": "Bob Boozer",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 14.8,
-      "RPG": 8.1,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 12964,
-      "REB": 7119,
-      "AST": 1237,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -3625,31 +3175,6 @@
     }
   },
   {
-    "id": 76247,
-    "name": "Randy Breuer",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1993,
-    "stats": {
-      "PPG": 6.8,
-      "RPG": 4.4,
-      "APG": 0.9,
-      "SPG": 0.4,
-      "BPG": 1.1,
-      "PTS": 4599,
-      "REB": 2986,
-      "AST": 616,
-      "STL": 305,
-      "BLK": 750,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 201147,
     "name": "Corey Brewer",
     "team": "---",
@@ -3669,106 +3194,6 @@
       "BLK": 222,
       "FG3M": 503,
       "FG3_PCT": 28.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76248,
-    "name": "Jim Brewer",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 5.8,
-      "RPG": 6.3,
-      "APG": 1.5,
-      "SPG": 0.8,
-      "BPG": 0.7,
-      "PTS": 4099,
-      "REB": 4458,
-      "AST": 1038,
-      "STL": 556,
-      "BLK": 510,
-      "FG3M": 1,
-      "FG3_PCT": 7.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 2,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76250,
-    "name": "Frank Brian",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1949,
-    "to_year": 1955,
-    "stats": {
-      "PPG": 12.3,
-      "RPG": 2.1,
-      "APG": 2.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5379,
-      "REB": 903,
-      "AST": 1138,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
-    "id": 783,
-    "name": "Frank Brickowski",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1984,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 10.0,
-      "RPG": 4.7,
-      "APG": 1.9,
-      "SPG": 0.9,
-      "BPG": 0.4,
-      "PTS": 7302,
-      "REB": 3410,
-      "AST": 1384,
-      "STL": 644,
-      "BLK": 285,
-      "FG3M": 55,
-      "FG3_PCT": 32.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76252,
-    "name": "Junior Bridgeman",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 13.6,
-      "RPG": 3.5,
-      "APG": 2.4,
-      "SPG": 0.8,
-      "BPG": 0.3,
-      "PTS": 11517,
-      "REB": 2995,
-      "AST": 2066,
-      "STL": 685,
-      "BLK": 220,
-      "FG3M": 40,
-      "FG3_PCT": 24.4,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -3844,31 +3269,6 @@
       "BLK": 328,
       "FG3M": 880,
       "FG3_PCT": 33.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76257,
-    "name": "Allan Bristow",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 7.9,
-      "RPG": 4.0,
-      "APG": 3.2,
-      "SPG": 0.8,
-      "BPG": 0.1,
-      "PTS": 5122,
-      "REB": 2613,
-      "AST": 2098,
-      "STL": 490,
-      "BLK": 40,
-      "FG3M": 16,
-      "FG3_PCT": 28.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -4169,31 +3569,6 @@
       "BLK": 23,
       "FG3M": 52,
       "FG3_PCT": 33.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76290,
-    "name": "Joe Bryant",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 8.7,
-      "RPG": 4.0,
-      "APG": 1.7,
-      "SPG": 0.9,
-      "BPG": 0.3,
-      "PTS": 5252,
-      "REB": 2441,
-      "AST": 1049,
-      "STL": 519,
-      "BLK": 201,
-      "FG3M": 23,
-      "FG3_PCT": 20.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -4525,31 +3900,6 @@
     }
   },
   {
-    "id": 76329,
-    "name": "Joe Caldwell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1969,
-    "stats": {
-      "PPG": 15.2,
-      "RPG": 5.1,
-      "APG": 2.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7127,
-      "REB": 2367,
-      "AST": 1257,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 203484,
     "name": "Kentavious Caldwell-Pope",
     "team": "MEM",
@@ -4775,56 +4125,6 @@
     }
   },
   {
-    "id": 76348,
-    "name": "Austin Carr",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 15.4,
-      "RPG": 2.9,
-      "APG": 2.8,
-      "SPG": 0.6,
-      "BPG": 0.1,
-      "PTS": 10473,
-      "REB": 1990,
-      "AST": 1878,
-      "STL": 433,
-      "BLK": 66,
-      "FG3M": 2,
-      "FG3_PCT": 15.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 76350,
-    "name": "Kenny Carr",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 7.4,
-      "APG": 1.4,
-      "SPG": 0.7,
-      "BPG": 0.4,
-      "PTS": 7813,
-      "REB": 4999,
-      "AST": 923,
-      "STL": 484,
-      "BLK": 296,
-      "FG3M": 3,
-      "FG3_PCT": 7.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 76351,
     "name": "M.L. Carr",
     "team": "---",
@@ -4944,31 +4244,6 @@
       "BLK": 13,
       "FG3M": 48,
       "FG3_PCT": 27.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76356,
-    "name": "Fred Carter",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 15.2,
-      "RPG": 3.9,
-      "APG": 3.5,
-      "SPG": 0.6,
-      "BPG": 0.1,
-      "PTS": 9271,
-      "REB": 2381,
-      "AST": 2122,
-      "STL": 371,
-      "BLK": 65,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -5169,56 +4444,6 @@
       "BLK": 10,
       "FG3M": 2,
       "FG3_PCT": 12.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76365,
-    "name": "Harvey Catchings",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1974,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 3.2,
-      "RPG": 5.0,
-      "APG": 0.8,
-      "SPG": 0.4,
-      "BPG": 1.7,
-      "PTS": 2335,
-      "REB": 3639,
-      "AST": 608,
-      "STL": 261,
-      "BLK": 1226,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 767,
-    "name": "Terry Catledge",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 12.7,
-      "RPG": 6.4,
-      "APG": 0.9,
-      "SPG": 0.6,
-      "BPG": 0.2,
-      "PTS": 6520,
-      "REB": 3314,
-      "AST": 459,
-      "STL": 285,
-      "BLK": 99,
-      "FG3M": 3,
-      "FG3_PCT": 9.4,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -5450,56 +4675,6 @@
     }
   },
   {
-    "id": 76379,
-    "name": "Don Chaney",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1968,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 8.4,
-      "RPG": 3.9,
-      "APG": 2.1,
-      "SPG": 0.7,
-      "BPG": 0.3,
-      "PTS": 6216,
-      "REB": 2913,
-      "AST": 1593,
-      "STL": 492,
-      "BLK": 196,
-      "FG3M": 1,
-      "FG3_PCT": 16.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 5,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76382,
-    "name": "Len Chappell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 9.5,
-      "RPG": 5.3,
-      "APG": 0.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5621,
-      "REB": 3113,
-      "AST": 434,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 384,
     "name": "Calbert Cheaney",
     "team": "---",
@@ -5572,31 +4747,6 @@
       "ALL_NBA": 1,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 3
-    }
-  },
-  {
-    "id": 76392,
-    "name": "Jim Chones",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1974,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 12.3,
-      "RPG": 8.3,
-      "APG": 1.7,
-      "SPG": 0.5,
-      "BPG": 1.0,
-      "PTS": 7664,
-      "REB": 5196,
-      "AST": 1079,
-      "STL": 332,
-      "BLK": 643,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -5875,56 +5025,6 @@
     }
   },
   {
-    "id": 76402,
-    "name": "Jim Cleamons",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 8.3,
-      "RPG": 3.0,
-      "APG": 3.9,
-      "SPG": 0.8,
-      "BPG": 0.2,
-      "PTS": 5408,
-      "REB": 1987,
-      "AST": 2532,
-      "STL": 533,
-      "BLK": 120,
-      "FG3M": 7,
-      "FG3_PCT": 22.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76403,
-    "name": "John Clemens",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 6.7,
-      "RPG": 3.2,
-      "APG": 1.1,
-      "SPG": 0.2,
-      "BPG": 0.0,
-      "PTS": 5316,
-      "REB": 2526,
-      "AST": 904,
-      "STL": 131,
-      "BLK": 11,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642363,
     "name": "Nique Clifford",
     "team": "SAC",
@@ -5947,31 +5047,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76404,
-    "name": "Nat Clifton",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1950,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 10.0,
-      "RPG": 8.2,
-      "APG": 2.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5444,
-      "REB": 4469,
-      "AST": 1367,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -6075,31 +5150,6 @@
     }
   },
   {
-    "id": 76414,
-    "name": "Jack Coleman",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1949,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 10.6,
-      "RPG": 8.2,
-      "APG": 2.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6721,
-      "REB": 5186,
-      "AST": 1749,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 902,
     "name": "Bimbo Coles",
     "team": "---",
@@ -6147,31 +5197,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76421,
-    "name": "Doug Collins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 17.9,
-      "RPG": 3.2,
-      "APG": 3.3,
-      "SPG": 1.2,
-      "BPG": 0.3,
-      "PTS": 7427,
-      "REB": 1339,
-      "AST": 1368,
-      "STL": 518,
-      "BLK": 114,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
     }
   },
   {
@@ -6319,56 +5344,6 @@
       "BLK": 160,
       "FG3M": 702,
       "FG3_PCT": 35.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76431,
-    "name": "Lester Conner",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1982,
-    "to_year": 1994,
-    "stats": {
-      "PPG": 6.3,
-      "RPG": 2.7,
-      "APG": 3.9,
-      "SPG": 1.6,
-      "BPG": 0.1,
-      "PTS": 4337,
-      "REB": 1861,
-      "AST": 2669,
-      "STL": 1085,
-      "BLK": 64,
-      "FG3M": 22,
-      "FG3_PCT": 20.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76435,
-    "name": "Darwin Cook",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1988,
-    "stats": {
-      "PPG": 9.5,
-      "RPG": 2.1,
-      "APG": 3.7,
-      "SPG": 1.7,
-      "BPG": 0.3,
-      "PTS": 5820,
-      "REB": 1308,
-      "AST": 2248,
-      "STL": 1044,
-      "BLK": 203,
-      "FG3M": 55,
-      "FG3_PCT": 19.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -6544,31 +5519,6 @@
       "BLK": 143,
       "FG3M": 192,
       "FG3_PCT": 31.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76458,
-    "name": "Mel Counts",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 8.3,
-      "RPG": 6.0,
-      "APG": 1.4,
-      "SPG": 0.1,
-      "BPG": 0.1,
-      "PTS": 6516,
-      "REB": 4756,
-      "AST": 1100,
-      "STL": 85,
-      "BLK": 74,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -6800,31 +5750,6 @@
     }
   },
   {
-    "id": 76483,
-    "name": "Pat Cummings",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1990,
-    "stats": {
-      "PPG": 9.6,
-      "RPG": 5.6,
-      "APG": 1.2,
-      "SPG": 0.5,
-      "BPG": 0.3,
-      "PTS": 6529,
-      "REB": 3825,
-      "AST": 807,
-      "STL": 360,
-      "BLK": 171,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 187,
     "name": "Terry Cummings",
     "team": "---",
@@ -6897,31 +5822,6 @@
       "ALL_NBA": 2,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 2
-    }
-  },
-  {
-    "id": 940,
-    "name": "Earl Cureton",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 5.4,
-      "RPG": 4.7,
-      "APG": 1.0,
-      "SPG": 0.5,
-      "BPG": 0.5,
-      "PTS": 3620,
-      "REB": 3172,
-      "AST": 678,
-      "STL": 341,
-      "BLK": 361,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -7225,31 +6125,6 @@
     }
   },
   {
-    "id": 76514,
-    "name": "Bob Davies",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1948,
-    "to_year": 1954,
-    "stats": {
-      "PPG": 14.3,
-      "RPG": 2.1,
-      "APG": 4.9,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6594,
-      "REB": 980,
-      "AST": 2250,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 5,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 203076,
     "name": "Anthony Davis",
     "team": "WAS",
@@ -7400,31 +6275,6 @@
     }
   },
   {
-    "id": 76526,
-    "name": "Johnny Davis",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1985,
-    "stats": {
-      "PPG": 12.9,
-      "RPG": 2.0,
-      "APG": 4.5,
-      "SPG": 0.9,
-      "BPG": 0.2,
-      "PTS": 9710,
-      "REB": 1505,
-      "AST": 3368,
-      "STL": 683,
-      "BLK": 116,
-      "FG3M": 33,
-      "FG3_PCT": 17.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1729,
     "name": "Ricky Davis",
     "team": "---",
@@ -7500,56 +6350,6 @@
     }
   },
   {
-    "id": 76539,
-    "name": "Darryl Dawkins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1988,
-    "stats": {
-      "PPG": 12.0,
-      "RPG": 6.1,
-      "APG": 1.3,
-      "SPG": 0.5,
-      "BPG": 1.4,
-      "PTS": 8733,
-      "REB": 4432,
-      "AST": 917,
-      "STL": 345,
-      "BLK": 1023,
-      "FG3M": 2,
-      "FG3_PCT": 13.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 1008,
-    "name": "Johnny Dawkins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1986,
-    "to_year": 1994,
-    "stats": {
-      "PPG": 11.1,
-      "RPG": 2.5,
-      "APG": 5.5,
-      "SPG": 1.1,
-      "BPG": 0.1,
-      "PTS": 5984,
-      "REB": 1336,
-      "AST": 2997,
-      "STL": 618,
-      "BLK": 29,
-      "FG3M": 180,
-      "FG3_PCT": 33.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 76545,
     "name": "Dave DeBusschere",
     "team": "---",
@@ -7597,31 +6397,6 @@
       "ALL_NBA": 3,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 6
-    }
-  },
-  {
-    "id": 183,
-    "name": "Bison Dele",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1991,
-    "to_year": 1998,
-    "stats": {
-      "PPG": 11.0,
-      "RPG": 6.2,
-      "APG": 1.1,
-      "SPG": 0.8,
-      "BPG": 0.9,
-      "PTS": 4536,
-      "REB": 2564,
-      "AST": 440,
-      "STL": 320,
-      "BLK": 355,
-      "FG3M": 2,
-      "FG3_PCT": 14.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -7850,31 +6625,6 @@
     }
   },
   {
-    "id": 76566,
-    "name": "Connie Dierking",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 10.0,
-      "RPG": 6.7,
-      "APG": 1.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7094,
-      "REB": 4757,
-      "AST": 1053,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642265,
     "name": "Rob Dillingham",
     "team": "CHI",
@@ -7922,31 +6672,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76577,
-    "name": "Terry Dischinger",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 13.8,
-      "RPG": 5.6,
-      "APG": 1.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 9012,
-      "REB": 3646,
-      "AST": 1151,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 3
     }
   },
   {
@@ -8297,31 +7022,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76611,
-    "name": "Walter Dukes",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1955,
-    "to_year": 1962,
-    "stats": {
-      "PPG": 10.4,
-      "RPG": 11.3,
-      "APG": 1.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5765,
-      "REB": 6223,
-      "AST": 608,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
     }
   },
   {
@@ -8950,31 +7650,6 @@
     }
   },
   {
-    "id": 76663,
-    "name": "Leroy Ellis",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 9.7,
-      "RPG": 8.3,
-      "APG": 1.3,
-      "SPG": 0.1,
-      "BPG": 0.1,
-      "PTS": 10176,
-      "REB": 8709,
-      "AST": 1405,
-      "STL": 146,
-      "BLK": 151,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 101145,
     "name": "Monta Ellis",
     "team": "---",
@@ -9050,31 +7725,6 @@
     }
   },
   {
-    "id": 76668,
-    "name": "Wayne Embry",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1968,
-    "stats": {
-      "PPG": 12.5,
-      "RPG": 9.1,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 10380,
-      "REB": 7544,
-      "AST": 1194,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 5
-    }
-  },
-  {
     "id": 1642400,
     "name": "Tristan Enaruna",
     "team": "CLE",
@@ -9122,31 +7772,6 @@
       "ALL_NBA": 3,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 8
-    }
-  },
-  {
-    "id": 76680,
-    "name": "Keith Erickson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 9.5,
-      "RPG": 4.5,
-      "APG": 2.6,
-      "SPG": 0.3,
-      "BPG": 0.1,
-      "PTS": 7251,
-      "REB": 3448,
-      "AST": 1991,
-      "STL": 222,
-      "BLK": 45,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -9400,31 +8025,6 @@
     }
   },
   {
-    "id": 76704,
-    "name": "Ray Felix",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1953,
-    "to_year": 1961,
-    "stats": {
-      "PPG": 10.9,
-      "RPG": 8.9,
-      "APG": 0.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6974,
-      "REB": 5652,
-      "AST": 448,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 101109,
     "name": "Raymond Felton",
     "team": "---",
@@ -9444,31 +8044,6 @@
       "BLK": 207,
       "FG3M": 925,
       "FG3_PCT": 32.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76712,
-    "name": "Bob Ferry",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1959,
-    "to_year": 1968,
-    "stats": {
-      "PPG": 9.1,
-      "RPG": 5.3,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5780,
-      "REB": 3343,
-      "AST": 906,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -9519,31 +8094,6 @@
       "BLK": 61,
       "FG3M": 151,
       "FG3_PCT": 33.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76716,
-    "name": "Hank Finkel",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 5.1,
-      "RPG": 3.9,
-      "APG": 0.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 2790,
-      "REB": 2151,
-      "AST": 426,
-      "STL": 10,
-      "BLK": 10,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -9775,56 +8325,6 @@
     }
   },
   {
-    "id": 76736,
-    "name": "Phil Ford",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1978,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 1.8,
-      "APG": 6.4,
-      "SPG": 1.2,
-      "BPG": 0.1,
-      "PTS": 5594,
-      "REB": 854,
-      "AST": 3083,
-      "STL": 589,
-      "BLK": 29,
-      "FG3M": 25,
-      "FG3_PCT": 21.0,
-      "ALL_NBA": 1,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76744,
-    "name": "Larry Foust",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1950,
-    "to_year": 1961,
-    "stats": {
-      "PPG": 13.7,
-      "RPG": 9.8,
-      "APG": 1.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 11198,
-      "REB": 8041,
-      "AST": 1368,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 8
-    }
-  },
-  {
     "id": 1628368,
     "name": "De'Aaron Fox",
     "team": "SAS",
@@ -9847,31 +8347,6 @@
       "ALL_NBA": 1,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 2
-    }
-  },
-  {
-    "id": 76747,
-    "name": "Jim Fox",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1967,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 9.3,
-      "RPG": 7.4,
-      "APG": 1.6,
-      "SPG": 0.2,
-      "BPG": 0.1,
-      "PTS": 6945,
-      "REB": 5525,
-      "AST": 1201,
-      "STL": 151,
-      "BLK": 79,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -10075,31 +8550,6 @@
     }
   },
   {
-    "id": 76764,
-    "name": "Joe Fulks",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1946,
-    "to_year": 1953,
-    "stats": {
-      "PPG": 16.4,
-      "RPG": 2.8,
-      "APG": 1.2,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8003,
-      "REB": 1379,
-      "AST": 587,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 4,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 1642277,
     "name": "Johnny Furphy",
     "team": "IND",
@@ -10150,31 +8600,6 @@
     }
   },
   {
-    "id": 76773,
-    "name": "Harry Gallatin",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1948,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 13.0,
-      "RPG": 9.8,
-      "APG": 1.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8843,
-      "REB": 6684,
-      "AST": 1208,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 7
-    }
-  },
-  {
     "id": 201568,
     "name": "Danilo Gallinari",
     "team": "---",
@@ -10194,31 +8619,6 @@
       "BLK": 268,
       "FG3M": 1456,
       "FG3_PCT": 38.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76774,
-    "name": "Dave Gambee",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1969,
-    "stats": {
-      "PPG": 10.6,
-      "RPG": 5.2,
-      "APG": 1.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7935,
-      "REB": 3891,
-      "AST": 757,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -10272,31 +8672,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 2
-    }
-  },
-  {
-    "id": 76783,
-    "name": "Dick Garmaker",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1955,
-    "to_year": 1960,
-    "stats": {
-      "PPG": 13.3,
-      "RPG": 4.2,
-      "APG": 2.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5597,
-      "REB": 1748,
-      "AST": 1114,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 1,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
     }
   },
   {
@@ -10600,31 +8975,6 @@
     }
   },
   {
-    "id": 76806,
-    "name": "John Gianelli",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 7.8,
-      "RPG": 5.9,
-      "APG": 1.5,
-      "SPG": 0.4,
-      "BPG": 0.9,
-      "PTS": 4210,
-      "REB": 3188,
-      "AST": 832,
-      "STL": 225,
-      "BLK": 476,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 201959,
     "name": "Taj Gibson",
     "team": "MEM",
@@ -10794,56 +9144,6 @@
       "BLK": 21,
       "FG3M": 286,
       "FG3_PCT": 40.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 288,
-    "name": "Armen Gilliam",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1987,
-    "to_year": 1999,
-    "stats": {
-      "PPG": 13.7,
-      "RPG": 6.9,
-      "APG": 1.2,
-      "SPG": 0.7,
-      "BPG": 0.7,
-      "PTS": 12700,
-      "REB": 6401,
-      "AST": 1088,
-      "STL": 676,
-      "BLK": 607,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76815,
-    "name": "Herm Gilliam",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 10.8,
-      "RPG": 3.8,
-      "APG": 3.8,
-      "SPG": 0.6,
-      "BPG": 0.1,
-      "PTS": 6252,
-      "REB": 2175,
-      "AST": 2225,
-      "STL": 369,
-      "BLK": 49,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -11175,31 +9475,6 @@
     }
   },
   {
-    "id": 76838,
-    "name": "Joe Graboski",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1948,
-    "to_year": 1961,
-    "stats": {
-      "PPG": 11.0,
-      "RPG": 7.1,
-      "APG": 1.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 9280,
-      "REB": 5999,
-      "AST": 1502,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 101122,
     "name": "Danny Granger",
     "team": "---",
@@ -11269,31 +9544,6 @@
       "BLK": 69,
       "FG3M": 95,
       "FG3_PCT": 27.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 265,
-    "name": "Harvey Grant",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1988,
-    "to_year": 1998,
-    "stats": {
-      "PPG": 9.9,
-      "RPG": 4.4,
-      "APG": 1.6,
-      "SPG": 0.8,
-      "BPG": 0.5,
-      "PTS": 7781,
-      "REB": 3436,
-      "AST": 1219,
-      "STL": 599,
-      "BLK": 428,
-      "FG3M": 65,
-      "FG3_PCT": 26.7,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -11550,31 +9800,6 @@
     }
   },
   {
-    "id": 76867,
-    "name": "Johnny Green",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1959,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 8.6,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 12281,
-      "REB": 9083,
-      "AST": 1449,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 1630182,
     "name": "Josh Green",
     "team": "CHA",
@@ -11625,31 +9850,6 @@
     }
   },
   {
-    "id": 76876,
-    "name": "Sidney Green",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 7.5,
-      "RPG": 6.1,
-      "APG": 0.9,
-      "SPG": 0.5,
-      "BPG": 0.3,
-      "PTS": 5080,
-      "REB": 4128,
-      "AST": 635,
-      "STL": 369,
-      "BLK": 220,
-      "FG3M": 1,
-      "FG3_PCT": 3.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 76881,
     "name": "David Greenwood",
     "team": "---",
@@ -11697,31 +9897,6 @@
       "ALL_NBA": 7,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 10
-    }
-  },
-  {
-    "id": 76887,
-    "name": "Kevin Grevey",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 11.0,
-      "RPG": 2.4,
-      "APG": 1.9,
-      "SPG": 0.6,
-      "BPG": 0.2,
-      "PTS": 7364,
-      "REB": 1594,
-      "AST": 1247,
-      "STL": 392,
-      "BLK": 112,
-      "FG3M": 145,
-      "FG3_PCT": 33.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -11796,31 +9971,6 @@
       "FG3_PCT": 36.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76895,
-    "name": "Bob Gross",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 8.9,
-      "RPG": 4.4,
-      "APG": 2.9,
-      "SPG": 1.2,
-      "BPG": 0.7,
-      "PTS": 4567,
-      "REB": 2253,
-      "AST": 1481,
-      "STL": 615,
-      "BLK": 361,
-      "FG3M": 5,
-      "FG3_PCT": 17.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
       "ALL_STAR": 0
     }
   },
@@ -11972,31 +10122,6 @@
       "ALL_NBA": 2,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 5
-    }
-  },
-  {
-    "id": 76916,
-    "name": "Happy Hairston",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 14.8,
-      "RPG": 10.3,
-      "APG": 1.6,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 11505,
-      "REB": 8019,
-      "AST": 1268,
-      "STL": 116,
-      "BLK": 28,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -12525,31 +10650,6 @@
     }
   },
   {
-    "id": 76962,
-    "name": "Bob Harrison",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1949,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 7.2,
-      "RPG": 2.2,
-      "APG": 2.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 4418,
-      "REB": 1358,
-      "AST": 1672,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1628404,
     "name": "Josh Hart",
     "team": "NYK",
@@ -12594,31 +10694,6 @@
       "BLK": 387,
       "FG3M": 27,
       "FG3_PCT": 23.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76965,
-    "name": "Clem Haskins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1967,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 12.8,
-      "RPG": 3.1,
-      "APG": 3.5,
-      "SPG": 0.2,
-      "BPG": 0.0,
-      "PTS": 8743,
-      "REB": 2087,
-      "AST": 2382,
-      "STL": 127,
-      "BLK": 30,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -12725,56 +10800,6 @@
     }
   },
   {
-    "id": 76971,
-    "name": "Steve Hawes",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1974,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 8.4,
-      "RPG": 6.2,
-      "APG": 1.9,
-      "SPG": 0.8,
-      "BPG": 0.5,
-      "PTS": 5768,
-      "REB": 4272,
-      "AST": 1288,
-      "STL": 518,
-      "BLK": 314,
-      "FG3M": 14,
-      "FG3_PCT": 29.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76972,
-    "name": "Connie Hawkins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 16.5,
-      "RPG": 8.0,
-      "APG": 4.1,
-      "SPG": 0.5,
-      "BPG": 0.3,
-      "PTS": 8233,
-      "REB": 3971,
-      "AST": 2052,
-      "STL": 244,
-      "BLK": 150,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 1,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 765,
     "name": "Hersey Hawkins",
     "team": "---",
@@ -12819,31 +10844,6 @@
       "BLK": 40,
       "FG3M": 266,
       "FG3_PCT": 34.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 76977,
-    "name": "Tom Hawkins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1959,
-    "to_year": 1968,
-    "stats": {
-      "PPG": 8.7,
-      "RPG": 6.0,
-      "APG": 1.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6672,
-      "REB": 4607,
-      "AST": 871,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -12997,31 +10997,6 @@
       "ALL_NBA": 4,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 4
-    }
-  },
-  {
-    "id": 76983,
-    "name": "Walt Hazzard",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1973,
-    "stats": {
-      "PPG": 12.6,
-      "RPG": 3.0,
-      "APG": 4.9,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 9087,
-      "REB": 2146,
-      "AST": 3555,
-      "STL": 26,
-      "BLK": 6,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -13325,31 +11300,6 @@
     }
   },
   {
-    "id": 77019,
-    "name": "Rod Higgins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1982,
-    "to_year": 1994,
-    "stats": {
-      "PPG": 9.0,
-      "RPG": 3.6,
-      "APG": 1.6,
-      "SPG": 0.6,
-      "BPG": 0.5,
-      "PTS": 7011,
-      "REB": 2819,
-      "AST": 1254,
-      "STL": 485,
-      "BLK": 359,
-      "FG3M": 352,
-      "FG3_PCT": 34.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1629312,
     "name": "Haywood Highsmith",
     "team": "PHX",
@@ -13544,56 +11494,6 @@
       "BLK": 882,
       "FG3M": 0,
       "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77032,
-    "name": "Lew Hitch",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1951,
-    "to_year": 1956,
-    "stats": {
-      "PPG": 5.0,
-      "RPG": 5.3,
-      "APG": 1.2,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 2075,
-      "REB": 2183,
-      "AST": 499,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77034,
-    "name": "Craig Hodges",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1982,
-    "to_year": 1991,
-    "stats": {
-      "PPG": 8.5,
-      "RPG": 1.3,
-      "APG": 2.5,
-      "SPG": 0.8,
-      "BPG": 0.0,
-      "PTS": 5940,
-      "REB": 937,
-      "AST": 1769,
-      "STL": 553,
-      "BLK": 26,
-      "FG3M": 563,
-      "FG3_PCT": 40.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -14025,56 +11925,6 @@
     }
   },
   {
-    "id": 77071,
-    "name": "Phil Hubbard",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1988,
-    "stats": {
-      "PPG": 10.9,
-      "RPG": 5.3,
-      "APG": 1.3,
-      "SPG": 0.9,
-      "BPG": 0.1,
-      "PTS": 7228,
-      "REB": 3538,
-      "AST": 857,
-      "STL": 574,
-      "BLK": 89,
-      "FG3M": 1,
-      "FG3_PCT": 3.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77074,
-    "name": "Lou Hudson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 20.2,
-      "RPG": 4.4,
-      "APG": 2.7,
-      "SPG": 0.6,
-      "BPG": 0.1,
-      "PTS": 17940,
-      "REB": 3926,
-      "AST": 2432,
-      "STL": 516,
-      "BLK": 98,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 1,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 6
-    }
-  },
-  {
     "id": 1628989,
     "name": "Kevin Huerter",
     "team": "DET",
@@ -14300,31 +12150,6 @@
     }
   },
   {
-    "id": 77089,
-    "name": "Mel Hutchins",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1951,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 11.1,
-      "RPG": 9.6,
-      "APG": 3.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 4851,
-      "REB": 4186,
-      "AST": 1298,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 1630538,
     "name": "Bones Hyland",
     "team": "MIN",
@@ -14475,31 +12300,6 @@
     }
   },
   {
-    "id": 77093,
-    "name": "Darrall Imhoff",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1971,
-    "stats": {
-      "PPG": 7.2,
-      "RPG": 7.6,
-      "APG": 1.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5759,
-      "REB": 6099,
-      "AST": 1405,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 204060,
     "name": "Joe Ingles",
     "team": "MIN",
@@ -14622,31 +12422,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77097,
-    "name": "Dan Issel",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 20.4,
-      "RPG": 7.9,
-      "APG": 2.5,
-      "SPG": 1.0,
-      "BPG": 0.6,
-      "PTS": 14659,
-      "REB": 5707,
-      "AST": 1804,
-      "STL": 698,
-      "BLK": 396,
-      "FG3M": 19,
-      "FG3_PCT": 25.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -14800,31 +12575,6 @@
     }
   },
   {
-    "id": 77103,
-    "name": "Lucious Jackson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1971,
-    "stats": {
-      "PPG": 9.9,
-      "RPG": 8.8,
-      "APG": 1.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5170,
-      "REB": 4613,
-      "AST": 818,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 349,
     "name": "Mark Jackson",
     "team": "---",
@@ -14847,31 +12597,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 77106,
-    "name": "Phil Jackson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1967,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 6.7,
-      "RPG": 4.3,
-      "APG": 1.1,
-      "SPG": 0.3,
-      "BPG": 0.2,
-      "PTS": 5428,
-      "REB": 3454,
-      "AST": 898,
-      "STL": 281,
-      "BLK": 199,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -15500,31 +13225,6 @@
     }
   },
   {
-    "id": 77136,
-    "name": "Clemon Johnson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1978,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 5.4,
-      "RPG": 4.6,
-      "APG": 1.0,
-      "SPG": 0.5,
-      "BPG": 0.9,
-      "PTS": 4102,
-      "REB": 3508,
-      "AST": 744,
-      "STL": 349,
-      "BLK": 715,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 77141,
     "name": "Dennis Johnson",
     "team": "---",
@@ -15950,56 +13650,6 @@
     }
   },
   {
-    "id": 77162,
-    "name": "Ollie Johnson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 7.7,
-      "RPG": 3.3,
-      "APG": 1.8,
-      "SPG": 0.7,
-      "BPG": 0.3,
-      "PTS": 5341,
-      "REB": 2280,
-      "AST": 1212,
-      "STL": 455,
-      "BLK": 224,
-      "FG3M": 3,
-      "FG3_PCT": 15.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77134,
-    "name": "Steve Johnson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1990,
-    "stats": {
-      "PPG": 11.7,
-      "RPG": 5.5,
-      "APG": 1.2,
-      "SPG": 0.5,
-      "BPG": 0.8,
-      "PTS": 7345,
-      "REB": 3450,
-      "AST": 777,
-      "STL": 290,
-      "BLK": 530,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642848,
     "name": "Tre Johnson",
     "team": "WAS",
@@ -16150,31 +13800,6 @@
     }
   },
   {
-    "id": 279,
-    "name": "Charles Jones",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1997,
-    "stats": {
-      "PPG": 2.5,
-      "RPG": 4.5,
-      "APG": 0.9,
-      "SPG": 0.6,
-      "BPG": 1.6,
-      "PTS": 1826,
-      "REB": 3253,
-      "AST": 623,
-      "STL": 442,
-      "BLK": 1134,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642938,
     "name": "Curtis Jones",
     "team": "DEN",
@@ -16219,31 +13844,6 @@
       "BLK": 4,
       "FG3M": 17,
       "FG3_PCT": 25.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77182,
-    "name": "Dwight Jones",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 8.1,
-      "RPG": 5.9,
-      "APG": 1.2,
-      "SPG": 0.6,
-      "BPG": 0.5,
-      "PTS": 6230,
-      "REB": 4513,
-      "AST": 911,
-      "STL": 429,
-      "BLK": 397,
-      "FG3M": 1,
-      "FG3_PCT": 50.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -16319,31 +13919,6 @@
       "BLK": 11,
       "FG3M": 3,
       "FG3_PCT": 30.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77188,
-    "name": "K.C. Jones",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1966,
-    "stats": {
-      "PPG": 7.4,
-      "RPG": 3.5,
-      "APG": 4.3,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5011,
-      "REB": 2399,
-      "AST": 2908,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -16475,31 +14050,6 @@
     }
   },
   {
-    "id": 77198,
-    "name": "Wali Jones",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 10.1,
-      "RPG": 2.3,
-      "APG": 3.2,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6140,
-      "REB": 1394,
-      "AST": 1947,
-      "STL": 6,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642357,
     "name": "David Jones Garcia",
     "team": "SAS",
@@ -16572,31 +14122,6 @@
       "ALL_NBA": 3,
       "ALL_DEFENSIVE": 2,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 77205,
-    "name": "Eddie Jordan",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 8.1,
-      "RPG": 1.9,
-      "APG": 3.8,
-      "SPG": 1.8,
-      "BPG": 0.2,
-      "PTS": 3414,
-      "REB": 788,
-      "AST": 1595,
-      "STL": 766,
-      "BLK": 96,
-      "FG3M": 22,
-      "FG3_PCT": 22.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -16725,31 +14250,6 @@
     }
   },
   {
-    "id": 77227,
-    "name": "Bob Kauffman",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1968,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 11.5,
-      "RPG": 7.0,
-      "APG": 2.7,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 6049,
-      "REB": 3682,
-      "AST": 1429,
-      "STL": 56,
-      "BLK": 22,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 3
-    }
-  },
-  {
     "id": 1642530,
     "name": "Yuki Kawamura",
     "team": "CHI",
@@ -16794,31 +14294,6 @@
       "BLK": 0,
       "FG3M": 3,
       "FG3_PCT": 23.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77235,
-    "name": "Rich Kelley",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1985,
-    "stats": {
-      "PPG": 7.6,
-      "RPG": 7.0,
-      "APG": 2.6,
-      "SPG": 0.9,
-      "BPG": 0.9,
-      "PTS": 6199,
-      "REB": 5678,
-      "AST": 2092,
-      "STL": 694,
-      "BLK": 749,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -16875,31 +14350,6 @@
     }
   },
   {
-    "id": 77246,
-    "name": "Larry Kenon",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 17.0,
-      "RPG": 7.8,
-      "APG": 2.6,
-      "SPG": 1.3,
-      "BPG": 0.3,
-      "PTS": 8535,
-      "REB": 3942,
-      "AST": 1287,
-      "STL": 675,
-      "BLK": 155,
-      "FG3M": 1,
-      "FG3_PCT": 10.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 1643257,
     "name": "Jayson Kent",
     "team": "POR",
@@ -16922,31 +14372,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77248,
-    "name": "Johnny Kerr",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1954,
-    "to_year": 1965,
-    "stats": {
-      "PPG": 13.8,
-      "RPG": 11.2,
-      "APG": 2.2,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 12480,
-      "REB": 10092,
-      "AST": 2004,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 3
     }
   },
   {
@@ -17050,31 +14475,6 @@
     }
   },
   {
-    "id": 77263,
-    "name": "Albert King",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1991,
-    "stats": {
-      "PPG": 12.1,
-      "RPG": 4.2,
-      "APG": 2.2,
-      "SPG": 0.8,
-      "BPG": 0.4,
-      "PTS": 6470,
-      "REB": 2262,
-      "AST": 1171,
-      "STL": 452,
-      "BLK": 196,
-      "FG3M": 56,
-      "FG3_PCT": 26.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 77264,
     "name": "Bernard King",
     "team": "---",
@@ -17144,31 +14544,6 @@
       "BLK": 70,
       "FG3M": 666,
       "FG3_PCT": 38.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 1123,
-    "name": "Greg Kite",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1994,
-    "stats": {
-      "PPG": 2.5,
-      "RPG": 3.8,
-      "APG": 0.5,
-      "SPG": 0.3,
-      "BPG": 0.6,
-      "PTS": 1717,
-      "REB": 2607,
-      "AST": 345,
-      "STL": 171,
-      "BLK": 414,
-      "FG3M": 1,
-      "FG3_PCT": 16.7,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -17250,31 +14625,6 @@
     }
   },
   {
-    "id": 77290,
-    "name": "Billy Knight",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 15.7,
-      "RPG": 4.5,
-      "APG": 2.1,
-      "SPG": 0.9,
-      "BPG": 0.1,
-      "PTS": 10561,
-      "REB": 3037,
-      "AST": 1435,
-      "STL": 627,
-      "BLK": 91,
-      "FG3M": 34,
-      "FG3_PCT": 27.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1510,
     "name": "Brevin Knight",
     "team": "---",
@@ -17325,31 +14675,6 @@
     }
   },
   {
-    "id": 77295,
-    "name": "Don Kojis",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1963,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 12.2,
-      "RPG": 5.6,
-      "APG": 1.4,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 9948,
-      "REB": 4555,
-      "AST": 1112,
-      "STL": 89,
-      "BLK": 16,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 1642278,
     "name": "Tyler Kolek",
     "team": "NYK",
@@ -17394,56 +14719,6 @@
       "BLK": 96,
       "FG3M": 2,
       "FG3_PCT": 8.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77297,
-    "name": "Howard Komives",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1973,
-    "stats": {
-      "PPG": 10.2,
-      "RPG": 2.4,
-      "APG": 4.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7550,
-      "REB": 1804,
-      "AST": 2941,
-      "STL": 32,
-      "BLK": 3,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 402,
-    "name": "Jon Koncak",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1995,
-    "stats": {
-      "PPG": 4.5,
-      "RPG": 4.9,
-      "APG": 1.0,
-      "SPG": 0.7,
-      "BPG": 1.0,
-      "PTS": 3520,
-      "REB": 3856,
-      "AST": 785,
-      "STL": 542,
-      "BLK": 791,
-      "FG3M": 19,
-      "FG3_PCT": 22.6,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -17550,31 +14825,6 @@
     }
   },
   {
-    "id": 77316,
-    "name": "Steve Kuberski",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1977,
-    "stats": {
-      "PPG": 5.5,
-      "RPG": 3.8,
-      "APG": 0.6,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 3114,
-      "REB": 2146,
-      "AST": 338,
-      "STL": 38,
-      "BLK": 28,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 389,
     "name": "Toni Kukoc",
     "team": "---",
@@ -17619,31 +14869,6 @@
       "BLK": 121,
       "FG3M": 238,
       "FG3_PCT": 33.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77324,
-    "name": "Mitch Kupchak",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1985,
-    "stats": {
-      "PPG": 10.2,
-      "RPG": 5.4,
-      "APG": 0.7,
-      "SPG": 0.3,
-      "BPG": 0.3,
-      "PTS": 5202,
-      "REB": 2730,
-      "AST": 377,
-      "STL": 164,
-      "BLK": 176,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -17722,31 +14947,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77340,
-    "name": "Rudy LaRusso",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1959,
-    "to_year": 1968,
-    "stats": {
-      "PPG": 15.6,
-      "RPG": 9.4,
-      "APG": 2.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 11507,
-      "REB": 6936,
-      "AST": 1556,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 4
     }
   },
   {
@@ -17925,56 +15125,6 @@
     }
   },
   {
-    "id": 77334,
-    "name": "Mark Landsberger",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 5.6,
-      "RPG": 6.1,
-      "APG": 0.5,
-      "SPG": 0.3,
-      "BPG": 0.2,
-      "PTS": 2468,
-      "REB": 2681,
-      "AST": 236,
-      "STL": 124,
-      "BLK": 70,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 457,
-    "name": "Andrew Lang",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1988,
-    "to_year": 1999,
-    "stats": {
-      "PPG": 6.0,
-      "RPG": 4.8,
-      "APG": 0.6,
-      "SPG": 0.5,
-      "BPG": 1.5,
-      "PTS": 4431,
-      "REB": 3511,
-      "AST": 424,
-      "STL": 332,
-      "BLK": 1099,
-      "FG3M": 5,
-      "FG3_PCT": 25.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 600005,
     "name": "Bob Lanier",
     "team": "---",
@@ -18122,56 +15272,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77353,
-    "name": "Allen Leavell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1988,
-    "stats": {
-      "PPG": 9.5,
-      "RPG": 1.7,
-      "APG": 4.8,
-      "SPG": 1.3,
-      "BPG": 0.2,
-      "PTS": 6684,
-      "REB": 1164,
-      "AST": 3339,
-      "STL": 929,
-      "BLK": 120,
-      "FG3M": 141,
-      "FG3_PCT": 23.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77357,
-    "name": "Clyde Lee",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 7.7,
-      "RPG": 10.3,
-      "APG": 1.1,
-      "SPG": 0.1,
-      "BPG": 0.1,
-      "PTS": 5733,
-      "REB": 7626,
-      "AST": 788,
-      "STL": 80,
-      "BLK": 64,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -18350,31 +15450,6 @@
     }
   },
   {
-    "id": 77384,
-    "name": "Reggie Lewis",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1987,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 17.6,
-      "RPG": 4.3,
-      "APG": 2.6,
-      "SPG": 1.3,
-      "BPG": 0.9,
-      "PTS": 7902,
-      "REB": 1938,
-      "AST": 1153,
-      "STL": 569,
-      "BLK": 417,
-      "FG3M": 27,
-      "FG3_PCT": 20.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1630604,
     "name": "E.J. Liddell",
     "team": "BKN",
@@ -18550,31 +15625,6 @@
     }
   },
   {
-    "id": 77394,
-    "name": "Earl Lloyd",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1950,
-    "to_year": 1959,
-    "stats": {
-      "PPG": 8.4,
-      "RPG": 6.4,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 4682,
-      "REB": 3609,
-      "AST": 810,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 3,
     "name": "Grant Long",
     "team": "---",
@@ -18719,56 +15769,6 @@
       "BLK": 1045,
       "FG3M": 57,
       "FG3_PCT": 29.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77409,
-    "name": "Jim Loscutoff",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1955,
-    "to_year": 1963,
-    "stats": {
-      "PPG": 6.2,
-      "RPG": 5.6,
-      "APG": 0.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 3156,
-      "REB": 2848,
-      "AST": 353,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77411,
-    "name": "Kevin Loughery",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 15.3,
-      "RPG": 3.0,
-      "APG": 3.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 11575,
-      "REB": 2254,
-      "AST": 2803,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -19400,31 +16400,6 @@
     }
   },
   {
-    "id": 77463,
-    "name": "Jack Marin",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 14.8,
-      "RPG": 5.2,
-      "APG": 2.1,
-      "SPG": 0.2,
-      "BPG": 0.1,
-      "PTS": 12541,
-      "REB": 4405,
-      "AST": 1813,
-      "STL": 155,
-      "BLK": 59,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 1890,
     "name": "Shawn Marion",
     "team": "---",
@@ -19900,31 +16875,6 @@
     }
   },
   {
-    "id": 77487,
-    "name": "Cedric Maxwell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 12.5,
-      "RPG": 6.3,
-      "APG": 2.2,
-      "SPG": 0.8,
-      "BPG": 0.5,
-      "PTS": 10465,
-      "REB": 5261,
-      "AST": 1862,
-      "STL": 671,
-      "BLK": 433,
-      "FG3M": 1,
-      "FG3_PCT": 5.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 137,
     "name": "Vernon Maxwell",
     "team": "---",
@@ -20375,31 +17325,6 @@
     }
   },
   {
-    "id": 77533,
-    "name": "Jon McGlocklin",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 2.4,
-      "APG": 2.9,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 9169,
-      "REB": 1928,
-      "AST": 2280,
-      "STL": 102,
-      "BLK": 13,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1631121,
     "name": "Bryce McGowens",
     "team": "NOP",
@@ -20600,31 +17525,6 @@
     }
   },
   {
-    "id": 77548,
-    "name": "Mccoy McLemore",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1971,
-    "stats": {
-      "PPG": 8.8,
-      "RPG": 5.5,
-      "APG": 1.3,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5130,
-      "REB": 3161,
-      "AST": 733,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 203,
     "name": "Nate McMillan",
     "team": "---",
@@ -20646,56 +17546,6 @@
       "FG3_PCT": 34.3,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 2,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77553,
-    "name": "Tom McMillen",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1985,
-    "stats": {
-      "PPG": 8.1,
-      "RPG": 4.0,
-      "APG": 1.1,
-      "SPG": 0.3,
-      "BPG": 0.3,
-      "PTS": 5914,
-      "REB": 2913,
-      "AST": 788,
-      "STL": 198,
-      "BLK": 190,
-      "FG3M": 3,
-      "FG3_PCT": 13.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77554,
-    "name": "Jim McMillian",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1970,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 13.8,
-      "RPG": 5.3,
-      "APG": 2.5,
-      "SPG": 0.7,
-      "BPG": 0.1,
-      "PTS": 8736,
-      "REB": 3319,
-      "AST": 1557,
-      "STL": 435,
-      "BLK": 80,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
     }
   },
@@ -20750,31 +17600,6 @@
     }
   },
   {
-    "id": 77582,
-    "name": "Joe Meriweather",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 8.1,
-      "RPG": 5.6,
-      "APG": 0.9,
-      "SPG": 0.5,
-      "BPG": 1.2,
-      "PTS": 5439,
-      "REB": 3764,
-      "AST": 603,
-      "STL": 311,
-      "BLK": 810,
-      "FG3M": 1,
-      "FG3_PCT": 33.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1630241,
     "name": "Sam Merrill",
     "team": "CLE",
@@ -20797,31 +17622,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77584,
-    "name": "Tom Meschery",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1961,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 12.7,
-      "RPG": 8.6,
-      "APG": 1.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 9904,
-      "REB": 6698,
-      "AST": 1331,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -20922,31 +17722,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77596,
-    "name": "Eddie Miles",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1963,
-    "to_year": 1971,
-    "stats": {
-      "PPG": 13.4,
-      "RPG": 3.1,
-      "APG": 2.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8120,
-      "REB": 1860,
-      "AST": 1225,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -21425,31 +18200,6 @@
     }
   },
   {
-    "id": 77615,
-    "name": "Mike Mitchell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1978,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 19.8,
-      "RPG": 5.6,
-      "APG": 1.3,
-      "SPG": 0.7,
-      "BPG": 0.5,
-      "PTS": 15016,
-      "REB": 4246,
-      "AST": 1010,
-      "STL": 530,
-      "BLK": 400,
-      "FG3M": 19,
-      "FG3_PCT": 21.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 417,
     "name": "Sam Mitchell",
     "team": "---",
@@ -21725,56 +18475,6 @@
     }
   },
   {
-    "id": 77633,
-    "name": "Johnny Moore",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1989,
-    "stats": {
-      "PPG": 9.4,
-      "RPG": 3.0,
-      "APG": 7.4,
-      "SPG": 2.0,
-      "BPG": 0.2,
-      "PTS": 4890,
-      "REB": 1548,
-      "AST": 3866,
-      "STL": 1017,
-      "BLK": 116,
-      "FG3M": 94,
-      "FG3_PCT": 25.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77636,
-    "name": "Otto Moore",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1968,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 8.2,
-      "RPG": 8.2,
-      "APG": 1.6,
-      "SPG": 0.3,
-      "BPG": 0.5,
-      "PTS": 5616,
-      "REB": 5575,
-      "AST": 1060,
-      "STL": 186,
-      "BLK": 342,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1631111,
     "name": "Wendell Moore Jr.",
     "team": "DET",
@@ -22022,31 +18722,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 3
-    }
-  },
-  {
-    "id": 785,
-    "name": "Eric Murdock",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1991,
-    "to_year": 1999,
-    "stats": {
-      "PPG": 10.1,
-      "RPG": 2.5,
-      "APG": 4.9,
-      "SPG": 1.6,
-      "BPG": 0.1,
-      "PTS": 5118,
-      "REB": 1261,
-      "AST": 2467,
-      "STL": 830,
-      "BLK": 69,
-      "FG3M": 296,
-      "FG3_PCT": 34.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -22425,131 +19100,6 @@
     }
   },
   {
-    "id": 77689,
-    "name": "Swen Nater",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 12.2,
-      "RPG": 10.8,
-      "APG": 2.0,
-      "SPG": 0.5,
-      "BPG": 0.5,
-      "PTS": 5943,
-      "REB": 5297,
-      "AST": 954,
-      "STL": 258,
-      "BLK": 226,
-      "FG3M": 1,
-      "FG3_PCT": 25.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77691,
-    "name": "Calvin Natt",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1989,
-    "stats": {
-      "PPG": 17.2,
-      "RPG": 6.8,
-      "APG": 2.2,
-      "SPG": 0.9,
-      "BPG": 0.3,
-      "PTS": 10291,
-      "REB": 4070,
-      "AST": 1306,
-      "STL": 525,
-      "BLK": 191,
-      "FG3M": 16,
-      "FG3_PCT": 21.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 77693,
-    "name": "Willie Naulls",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1956,
-    "to_year": 1965,
-    "stats": {
-      "PPG": 15.8,
-      "RPG": 9.1,
-      "APG": 1.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 11305,
-      "REB": 6508,
-      "AST": 1114,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
-    "id": 77696,
-    "name": "Lloyd Neal",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 11.1,
-      "RPG": 7.7,
-      "APG": 1.5,
-      "SPG": 0.4,
-      "BPG": 0.7,
-      "PTS": 4846,
-      "REB": 3370,
-      "AST": 632,
-      "STL": 178,
-      "BLK": 324,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77700,
-    "name": "Don Nelson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 10.3,
-      "RPG": 4.9,
-      "APG": 1.4,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 10898,
-      "REB": 5192,
-      "AST": 1526,
-      "STL": 65,
-      "BLK": 35,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 2749,
     "name": "Jameer Nelson",
     "team": "---",
@@ -22775,31 +19325,6 @@
     }
   },
   {
-    "id": 77713,
-    "name": "Jack Nichols",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1948,
-    "to_year": 1957,
-    "stats": {
-      "PPG": 10.4,
-      "RPG": 5.5,
-      "APG": 1.9,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5245,
-      "REB": 2782,
-      "AST": 964,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642949,
     "name": "Yanic Konan Niederh\u00e4user",
     "team": "LAC",
@@ -22919,31 +19444,6 @@
       "BLK": 228,
       "FG3M": 587,
       "FG3_PCT": 37.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 80,
-    "name": "Ken Norman",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1987,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 13.5,
-      "RPG": 6.1,
-      "APG": 2.1,
-      "SPG": 0.8,
-      "BPG": 0.7,
-      "PTS": 8717,
-      "REB": 3949,
-      "AST": 1355,
-      "STL": 517,
-      "BLK": 431,
-      "FG3M": 231,
-      "FG3_PCT": 31.2,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -23150,31 +19650,6 @@
     }
   },
   {
-    "id": 77751,
-    "name": "Don Ohl",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1969,
-    "stats": {
-      "PPG": 15.9,
-      "RPG": 3.0,
-      "APG": 3.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 11549,
-      "REB": 2163,
-      "AST": 2243,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 5
-    }
-  },
-  {
     "id": 2731,
     "name": "Emeka Okafor",
     "team": "---",
@@ -23350,31 +19825,6 @@
     }
   },
   {
-    "id": 77756,
-    "name": "Mark Olberding",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 9.4,
-      "RPG": 5.2,
-      "APG": 2.5,
-      "SPG": 0.7,
-      "BPG": 0.3,
-      "PTS": 8145,
-      "REB": 4503,
-      "AST": 2190,
-      "STL": 573,
-      "BLK": 235,
-      "FG3M": 5,
-      "FG3_PCT": 12.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642950,
     "name": "Lachlan Olbrich",
     "team": "CHI",
@@ -23444,31 +19894,6 @@
       "BLK": 0,
       "FG3M": 0,
       "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77770,
-    "name": "Louis Orr",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 9.7,
-      "RPG": 3.7,
-      "APG": 1.5,
-      "SPG": 0.8,
-      "BPG": 0.3,
-      "PTS": 5545,
-      "REB": 2117,
-      "AST": 853,
-      "STL": 455,
-      "BLK": 163,
-      "FG3M": 3,
-      "FG3_PCT": 8.3,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -23569,31 +19994,6 @@
       "BLK": 321,
       "FG3M": 82,
       "FG3_PCT": 29.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77786,
-    "name": "Tom Owens",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 11.5,
-      "RPG": 6.2,
-      "APG": 2.0,
-      "SPG": 0.5,
-      "BPG": 0.5,
-      "PTS": 5612,
-      "REB": 3010,
-      "AST": 984,
-      "STL": 230,
-      "BLK": 259,
-      "FG3M": 2,
-      "FG3_PCT": 25.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -23722,31 +20122,6 @@
       "ALL_NBA": 11,
       "ALL_DEFENSIVE": 9,
       "ALL_STAR": 12
-    }
-  },
-  {
-    "id": 77817,
-    "name": "Billy Paultz",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 8.5,
-      "RPG": 5.6,
-      "APG": 1.6,
-      "SPG": 0.4,
-      "BPG": 1.1,
-      "PTS": 5432,
-      "REB": 3553,
-      "AST": 1043,
-      "STL": 275,
-      "BLK": 706,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -24150,31 +20525,6 @@
     }
   },
   {
-    "id": 77844,
-    "name": "Geoff Petrie",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1970,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 21.8,
-      "RPG": 2.8,
-      "APG": 4.6,
-      "SPG": 0.6,
-      "BPG": 0.1,
-      "PTS": 9732,
-      "REB": 1271,
-      "AST": 2057,
-      "STL": 247,
-      "BLK": 33,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 77847,
     "name": "Bob Pettit",
     "team": "---",
@@ -24246,31 +20596,6 @@
       "FG3_PCT": 32.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 184,
-    "name": "Bobby Phills",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1991,
-    "to_year": 1999,
-    "stats": {
-      "PPG": 11.0,
-      "RPG": 3.1,
-      "APG": 2.7,
-      "SPG": 1.3,
-      "BPG": 0.3,
-      "PTS": 5153,
-      "REB": 1469,
-      "AST": 1246,
-      "STL": 592,
-      "BLK": 139,
-      "FG3M": 342,
-      "FG3_PCT": 39.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
       "ALL_STAR": 0
     }
   },
@@ -24347,31 +20672,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 291,
-    "name": "Ed Pinckney",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 6.8,
-      "RPG": 5.0,
-      "APG": 0.9,
-      "SPG": 0.8,
-      "BPG": 0.5,
-      "PTS": 5378,
-      "REB": 3952,
-      "AST": 727,
-      "STL": 612,
-      "BLK": 435,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -24594,56 +20894,6 @@
       "BLK": 130,
       "FG3M": 1111,
       "FG3_PCT": 34.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77873,
-    "name": "Ben Poquette",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1977,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 6.8,
-      "RPG": 5.2,
-      "APG": 1.2,
-      "SPG": 0.5,
-      "BPG": 1.1,
-      "PTS": 4899,
-      "REB": 3731,
-      "AST": 872,
-      "STL": 384,
-      "BLK": 794,
-      "FG3M": 13,
-      "FG3_PCT": 22.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77876,
-    "name": "Kevin Porter",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 1.8,
-      "APG": 8.1,
-      "SPG": 1.3,
-      "BPG": 0.1,
-      "PTS": 7645,
-      "REB": 1179,
-      "AST": 5314,
-      "STL": 830,
-      "BLK": 72,
-      "FG3M": 3,
-      "FG3_PCT": 18.8,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -25025,31 +21275,6 @@
     }
   },
   {
-    "id": 77883,
-    "name": "Jim Price",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1972,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 10.0,
-      "RPG": 3.1,
-      "APG": 3.7,
-      "SPG": 1.4,
-      "BPG": 0.2,
-      "PTS": 5088,
-      "REB": 1566,
-      "AST": 1886,
-      "STL": 724,
-      "BLK": 126,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 899,
     "name": "Mark Price",
     "team": "---",
@@ -25375,31 +21600,6 @@
     }
   },
   {
-    "id": 77907,
-    "name": "Frank Ramsey",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1954,
-    "to_year": 1963,
-    "stats": {
-      "PPG": 13.4,
-      "RPG": 5.5,
-      "APG": 1.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8378,
-      "REB": 3410,
-      "AST": 1134,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 203944,
     "name": "Julius Randle",
     "team": "MIN",
@@ -25450,31 +21650,6 @@
     }
   },
   {
-    "id": 78656,
-    "name": "Blair Rasmussen",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 9.6,
-      "RPG": 5.7,
-      "APG": 0.9,
-      "SPG": 0.4,
-      "BPG": 0.9,
-      "PTS": 5119,
-      "REB": 3006,
-      "AST": 467,
-      "STL": 210,
-      "BLK": 484,
-      "FG3M": 9,
-      "FG3_PCT": 25.7,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 689,
     "name": "Theo Ratliff",
     "team": "---",
@@ -25497,31 +21672,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 2,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 77917,
-    "name": "Clifford Ray",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 7.4,
-      "RPG": 8.9,
-      "APG": 2.2,
-      "SPG": 0.6,
-      "BPG": 0.8,
-      "PTS": 5821,
-      "REB": 6953,
-      "AST": 1728,
-      "STL": 501,
-      "BLK": 638,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -26075,31 +22225,6 @@
     }
   },
   {
-    "id": 77966,
-    "name": "Mike Riordan",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1968,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 9.9,
-      "RPG": 2.9,
-      "APG": 2.4,
-      "SPG": 0.4,
-      "BPG": 0.1,
-      "PTS": 6334,
-      "REB": 1830,
-      "AST": 1524,
-      "STL": 231,
-      "BLK": 35,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642258,
     "name": "Zaccharie Risacher",
     "team": "ATL",
@@ -26175,31 +22300,6 @@
     }
   },
   {
-    "id": 122,
-    "name": "Fred Roberts",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 7.3,
-      "RPG": 2.8,
-      "APG": 1.2,
-      "SPG": 0.5,
-      "BPG": 0.3,
-      "PTS": 5962,
-      "REB": 2308,
-      "AST": 977,
-      "STL": 412,
-      "BLK": 253,
-      "FG3M": 51,
-      "FG3_PCT": 32.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 926,
     "name": "Alvin Robertson",
     "team": "---",
@@ -26247,56 +22347,6 @@
       "ALL_NBA": 11,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 12
-    }
-  },
-  {
-    "id": 77984,
-    "name": "Rick Robey",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1978,
-    "to_year": 1985,
-    "stats": {
-      "PPG": 7.6,
-      "RPG": 4.7,
-      "APG": 1.2,
-      "SPG": 0.4,
-      "BPG": 0.2,
-      "PTS": 3723,
-      "REB": 2301,
-      "AST": 611,
-      "STL": 220,
-      "BLK": 90,
-      "FG3M": 1,
-      "FG3_PCT": 12.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77986,
-    "name": "Cliff T. Robinson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1979,
-    "to_year": 1991,
-    "stats": {
-      "PPG": 17.2,
-      "RPG": 8.3,
-      "APG": 2.0,
-      "SPG": 1.0,
-      "BPG": 0.7,
-      "PTS": 10823,
-      "REB": 5237,
-      "AST": 1249,
-      "STL": 655,
-      "BLK": 441,
-      "FG3M": 7,
-      "FG3_PCT": 19.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -26375,31 +22425,6 @@
     }
   },
   {
-    "id": 77988,
-    "name": "Flynn Robinson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 14.5,
-      "RPG": 2.6,
-      "APG": 3.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7147,
-      "REB": 1294,
-      "AST": 1516,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 299,
     "name": "Glenn Robinson",
     "team": "---",
@@ -26475,56 +22500,6 @@
     }
   },
   {
-    "id": 77997,
-    "name": "Bill Robinzine",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1975,
-    "to_year": 1981,
-    "stats": {
-      "PPG": 10.5,
-      "RPG": 6.1,
-      "APG": 1.1,
-      "SPG": 1.1,
-      "BPG": 0.2,
-      "PTS": 5541,
-      "REB": 3209,
-      "AST": 560,
-      "STL": 563,
-      "BLK": 84,
-      "FG3M": 2,
-      "FG3_PCT": 25.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 77999,
-    "name": "Red Rocha",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1947,
-    "to_year": 1956,
-    "stats": {
-      "PPG": 10.9,
-      "RPG": 4.7,
-      "APG": 2.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6362,
-      "REB": 2747,
-      "AST": 1153,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 1631223,
     "name": "David Roddy",
     "team": "DEN",
@@ -26547,31 +22522,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78003,
-    "name": "Guy Rodgers",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1958,
-    "to_year": 1969,
-    "stats": {
-      "PPG": 11.7,
-      "RPG": 4.2,
-      "APG": 7.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 10415,
-      "REB": 3791,
-      "AST": 6917,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
     }
   },
   {
@@ -26825,31 +22775,6 @@
     }
   },
   {
-    "id": 78028,
-    "name": "Curtis Rowe",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 11.6,
-      "RPG": 7.2,
-      "APG": 1.6,
-      "SPG": 0.3,
-      "BPG": 0.3,
-      "PTS": 6873,
-      "REB": 4264,
-      "AST": 932,
-      "STL": 199,
-      "BLK": 193,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 200750,
     "name": "Brandon Roy",
     "team": "---",
@@ -26925,56 +22850,6 @@
     }
   },
   {
-    "id": 78041,
-    "name": "Jeff Ruland",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 17.4,
-      "RPG": 10.2,
-      "APG": 3.0,
-      "SPG": 0.8,
-      "BPG": 0.8,
-      "PTS": 5763,
-      "REB": 3378,
-      "AST": 1002,
-      "STL": 249,
-      "BLK": 267,
-      "FG3M": 3,
-      "FG3_PCT": 15.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 78042,
-    "name": "Bob Rule",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1967,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 17.4,
-      "RPG": 8.3,
-      "APG": 1.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7007,
-      "REB": 3333,
-      "AST": 594,
-      "STL": 12,
-      "BLK": 10,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1641712,
     "name": "Rayan Rupert",
     "team": "MEM",
@@ -27047,56 +22922,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78047,
-    "name": "Campy Russell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1974,
-    "to_year": 1984,
-    "stats": {
-      "PPG": 15.8,
-      "RPG": 4.8,
-      "APG": 3.0,
-      "SPG": 1.0,
-      "BPG": 0.2,
-      "PTS": 8953,
-      "REB": 2696,
-      "AST": 1684,
-      "STL": 594,
-      "BLK": 114,
-      "FG3M": 34,
-      "FG3_PCT": 36.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 78045,
-    "name": "Cazzie Russell",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1977,
-    "stats": {
-      "PPG": 15.1,
-      "RPG": 3.8,
-      "APG": 2.2,
-      "SPG": 0.3,
-      "BPG": 0.0,
-      "PTS": 12377,
-      "REB": 3068,
-      "AST": 1838,
-      "STL": 239,
-      "BLK": 33,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {
@@ -27325,31 +23150,6 @@
     }
   },
   {
-    "id": 78060,
-    "name": "Thomas Sanders",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 9.6,
-      "RPG": 6.3,
-      "APG": 1.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8766,
-      "REB": 5798,
-      "AST": 1026,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1642362,
     "name": "Payton Sandfort",
     "team": "OKC",
@@ -27525,31 +23325,6 @@
     }
   },
   {
-    "id": 78064,
-    "name": "Woody Sauldsberry",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1957,
-    "to_year": 1965,
-    "stats": {
-      "PPG": 10.7,
-      "RPG": 7.8,
-      "APG": 1.1,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 4930,
-      "REB": 3618,
-      "AST": 498,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 7,
     "name": "Dan Schayes",
     "team": "---",
@@ -27700,31 +23475,6 @@
     }
   },
   {
-    "id": 78094,
-    "name": "Freddie Scolari",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1946,
-    "to_year": 1954,
-    "stats": {
-      "PPG": 11.3,
-      "RPG": 1.6,
-      "APG": 2.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6014,
-      "REB": 857,
-      "AST": 1406,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 2,
     "name": "Byron Scott",
     "team": "---",
@@ -27775,56 +23525,6 @@
     }
   },
   {
-    "id": 78100,
-    "name": "Ray Scott",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1961,
-    "to_year": 1969,
-    "stats": {
-      "PPG": 14.9,
-      "RPG": 10.5,
-      "APG": 2.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 10184,
-      "REB": 7154,
-      "AST": 1618,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78106,
-    "name": "Ken Sears",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1955,
-    "to_year": 1963,
-    "stats": {
-      "PPG": 13.9,
-      "RPG": 7.8,
-      "APG": 1.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7355,
-      "REB": 4142,
-      "AST": 843,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
-    }
-  },
-  {
     "id": 200757,
     "name": "Thabo Sefolosha",
     "team": "---",
@@ -27872,31 +23572,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78113,
-    "name": "Frank Selvy",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1954,
-    "to_year": 1963,
-    "stats": {
-      "PPG": 10.8,
-      "RPG": 3.7,
-      "APG": 2.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6120,
-      "REB": 2098,
-      "AST": 1579,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
     }
   },
   {
@@ -28000,31 +23675,6 @@
     }
   },
   {
-    "id": 78117,
-    "name": "Paul Seymour",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1947,
-    "to_year": 1959,
-    "stats": {
-      "PPG": 9.4,
-      "RPG": 2.7,
-      "APG": 3.8,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5836,
-      "REB": 1694,
-      "AST": 2341,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 3
-    }
-  },
-  {
     "id": 1629013,
     "name": "Landry Shamet",
     "team": "NYK",
@@ -28069,31 +23719,6 @@
       "BLK": 6,
       "FG3M": 42,
       "FG3_PCT": 39.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78125,
-    "name": "Charlie Share",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1951,
-    "to_year": 1959,
-    "stats": {
-      "PPG": 8.3,
-      "RPG": 8.4,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 4928,
-      "REB": 4986,
-      "AST": 809,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -28300,31 +23925,6 @@
     }
   },
   {
-    "id": 78139,
-    "name": "Purvis Short",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1978,
-    "to_year": 1989,
-    "stats": {
-      "PPG": 17.3,
-      "RPG": 4.3,
-      "APG": 2.5,
-      "SPG": 1.0,
-      "BPG": 0.2,
-      "PTS": 14607,
-      "REB": 3625,
-      "AST": 2123,
-      "STL": 878,
-      "BLK": 178,
-      "FG3M": 125,
-      "FG3_PCT": 28.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 78142,
     "name": "Gene Shue",
     "team": "---",
@@ -28397,31 +23997,6 @@
       "ALL_NBA": 2,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 4
-    }
-  },
-  {
-    "id": 78147,
-    "name": "Larry Siegfried",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1963,
-    "to_year": 1971,
-    "stats": {
-      "PPG": 10.8,
-      "RPG": 2.8,
-      "APG": 3.5,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5960,
-      "REB": 1567,
-      "AST": 1950,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -28500,56 +24075,6 @@
     }
   },
   {
-    "id": 78153,
-    "name": "Connie Simmons",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1946,
-    "to_year": 1955,
-    "stats": {
-      "PPG": 9.8,
-      "RPG": 3.8,
-      "APG": 1.6,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5859,
-      "REB": 2294,
-      "AST": 940,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 1489,
-    "name": "Lionel Simmons",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1990,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 12.8,
-      "RPG": 6.2,
-      "APG": 3.3,
-      "SPG": 1.1,
-      "BPG": 0.8,
-      "PTS": 5833,
-      "REB": 2833,
-      "AST": 1498,
-      "STL": 514,
-      "BLK": 361,
-      "FG3M": 43,
-      "FG3_PCT": 30.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1629014,
     "name": "Anfernee Simons",
     "team": "CHI",
@@ -28625,31 +24150,6 @@
     }
   },
   {
-    "id": 101,
-    "name": "Scott Skiles",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1986,
-    "to_year": 1995,
-    "stats": {
-      "PPG": 11.1,
-      "RPG": 2.5,
-      "APG": 6.5,
-      "SPG": 0.8,
-      "BPG": 0.0,
-      "PTS": 6652,
-      "REB": 1526,
-      "AST": 3881,
-      "STL": 500,
-      "BLK": 29,
-      "FG3M": 524,
-      "FG3_PCT": 37.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1641771,
     "name": "Jalen Slawson",
     "team": "IND",
@@ -28672,31 +24172,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78173,
-    "name": "Jerry Sloan",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 14.0,
-      "RPG": 7.4,
-      "APG": 2.5,
-      "SPG": 0.5,
-      "BPG": 0.0,
-      "PTS": 10571,
-      "REB": 5615,
-      "AST": 1925,
-      "STL": 381,
-      "BLK": 32,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 6,
-      "ALL_STAR": 2
     }
   },
   {
@@ -28750,56 +24225,6 @@
     }
   },
   {
-    "id": 78178,
-    "name": "Adrian Smith",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1961,
-    "to_year": 1970,
-    "stats": {
-      "PPG": 11.8,
-      "RPG": 2.2,
-      "APG": 2.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 8482,
-      "REB": 1580,
-      "AST": 1698,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 78202,
-    "name": "Bingo Smith",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 12.6,
-      "RPG": 4.2,
-      "APG": 2.0,
-      "SPG": 0.5,
-      "BPG": 0.2,
-      "PTS": 10882,
-      "REB": 3630,
-      "AST": 1734,
-      "STL": 431,
-      "BLK": 167,
-      "FG3M": 23,
-      "FG3_PCT": 28.4,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 293,
     "name": "Charles Smith",
     "team": "---",
@@ -28844,56 +24269,6 @@
       "BLK": 34,
       "FG3M": 66,
       "FG3_PCT": 33.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78188,
-    "name": "Elmore Smith",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 13.4,
-      "RPG": 10.6,
-      "APG": 1.4,
-      "SPG": 0.6,
-      "BPG": 2.1,
-      "PTS": 7541,
-      "REB": 5962,
-      "AST": 808,
-      "STL": 325,
-      "BLK": 1183,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78190,
-    "name": "Greg Smith",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1968,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 7.8,
-      "RPG": 6.2,
-      "APG": 1.8,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 4097,
-      "REB": 3249,
-      "AST": 969,
-      "STL": 63,
-      "BLK": 12,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -29044,31 +24419,6 @@
       "BLK": 65,
       "FG3M": 664,
       "FG3_PCT": 39.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78195,
-    "name": "Larry Smith",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 6.7,
-      "RPG": 9.2,
-      "APG": 1.1,
-      "SPG": 0.8,
-      "BPG": 0.5,
-      "PTS": 5904,
-      "REB": 8125,
-      "AST": 941,
-      "STL": 699,
-      "BLK": 457,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -29325,31 +24675,6 @@
     }
   },
   {
-    "id": 78213,
-    "name": "Dick Snyder",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 12.2,
-      "RPG": 2.8,
-      "APG": 2.9,
-      "SPG": 0.3,
-      "BPG": 0.2,
-      "PTS": 11755,
-      "REB": 2732,
-      "AST": 2767,
-      "STL": 300,
-      "BLK": 157,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 78215,
     "name": "Ricky Sobers",
     "team": "---",
@@ -29550,31 +24875,6 @@
     }
   },
   {
-    "id": 78238,
-    "name": "Dave Stallworth",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 9.3,
-      "RPG": 4.7,
-      "APG": 1.7,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 4860,
-      "REB": 2453,
-      "AST": 872,
-      "STL": 31,
-      "BLK": 7,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 317,
     "name": "John Starks",
     "team": "---",
@@ -29597,31 +24897,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 1,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 78245,
-    "name": "Larry Steele",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1979,
-    "stats": {
-      "PPG": 8.2,
-      "RPG": 2.9,
-      "APG": 2.8,
-      "SPG": 1.4,
-      "BPG": 0.2,
-      "PTS": 5009,
-      "REB": 1781,
-      "AST": 1719,
-      "STL": 846,
-      "BLK": 96,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -29694,31 +24969,6 @@
       "BLK": 430,
       "FG3M": 227,
       "FG3_PCT": 34.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78257,
-    "name": "Steve Stipanovich",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1983,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 13.2,
-      "RPG": 7.8,
-      "APG": 2.3,
-      "SPG": 1.0,
-      "BPG": 0.9,
-      "PTS": 5323,
-      "REB": 3131,
-      "AST": 938,
-      "STL": 415,
-      "BLK": 380,
-      "FG3M": 10,
-      "FG3_PCT": 17.9,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -30375,31 +25625,6 @@
     }
   },
   {
-    "id": 78326,
-    "name": "David Thompson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 22.1,
-      "RPG": 3.8,
-      "APG": 3.2,
-      "SPG": 0.9,
-      "BPG": 0.8,
-      "PTS": 11264,
-      "REB": 1921,
-      "AST": 1631,
-      "STL": 459,
-      "BLK": 407,
-      "FG3M": 23,
-      "FG3_PCT": 27.7,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 1630679,
     "name": "Ethan Thompson",
     "team": "IND",
@@ -30725,56 +25950,6 @@
     }
   },
   {
-    "id": 47,
-    "name": "Wayman Tisdale",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1996,
-    "stats": {
-      "PPG": 15.3,
-      "RPG": 6.1,
-      "APG": 1.3,
-      "SPG": 0.6,
-      "BPG": 0.6,
-      "PTS": 12878,
-      "REB": 5117,
-      "AST": 1077,
-      "STL": 464,
-      "BLK": 500,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78350,
-    "name": "Rudy Tomjanovich",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1970,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 17.4,
-      "RPG": 8.1,
-      "APG": 2.0,
-      "SPG": 0.5,
-      "BPG": 0.2,
-      "PTS": 13383,
-      "REB": 6198,
-      "AST": 1573,
-      "STL": 374,
-      "BLK": 175,
-      "FG3M": 34,
-      "FG3_PCT": 26.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 5
-    }
-  },
-  {
     "id": 1641772,
     "name": "Nae'Qwan Tomlin",
     "team": "CLE",
@@ -30797,31 +25972,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78351,
-    "name": "Andrew Toney",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 15.9,
-      "RPG": 2.2,
-      "APG": 4.2,
-      "SPG": 0.8,
-      "BPG": 0.2,
-      "PTS": 7458,
-      "REB": 1009,
-      "AST": 1965,
-      "STL": 369,
-      "BLK": 105,
-      "FG3M": 138,
-      "FG3_PCT": 34.2,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
     }
   },
   {
@@ -30975,31 +26125,6 @@
     }
   },
   {
-    "id": 78651,
-    "name": "John Tresvant",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1964,
-    "to_year": 1972,
-    "stats": {
-      "PPG": 9.2,
-      "RPG": 6.3,
-      "APG": 1.4,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5118,
-      "REB": 3546,
-      "AST": 806,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 78369,
     "name": "Kelly Tripucka",
     "team": "---",
@@ -31069,31 +26194,6 @@
       "BLK": 263,
       "FG3M": 880,
       "FG3_PCT": 36.6,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78375,
-    "name": "Trent Tucker",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1982,
-    "to_year": 1992,
-    "stats": {
-      "PPG": 8.2,
-      "RPG": 2.0,
-      "APG": 2.0,
-      "SPG": 0.9,
-      "BPG": 0.1,
-      "PTS": 6236,
-      "REB": 1520,
-      "AST": 1532,
-      "STL": 679,
-      "BLK": 88,
-      "FG3M": 575,
-      "FG3_PCT": 40.8,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -31172,31 +26272,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78388,
-    "name": "Jack Twyman",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1955,
-    "to_year": 1965,
-    "stats": {
-      "PPG": 19.2,
-      "RPG": 6.6,
-      "APG": 2.3,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 15840,
-      "REB": 5424,
-      "AST": 1861,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 6
     }
   },
   {
@@ -31371,31 +26446,6 @@
       "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 3
-    }
-  },
-  {
-    "id": 78399,
-    "name": "Tom Van Arsdale",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 15.3,
-      "RPG": 4.2,
-      "APG": 2.2,
-      "SPG": 0.2,
-      "BPG": 0.0,
-      "PTS": 14232,
-      "REB": 3942,
-      "AST": 2085,
-      "STL": 230,
-      "BLK": 16,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
       "ALL_STAR": 3
     }
   },
@@ -31675,31 +26725,6 @@
     }
   },
   {
-    "id": 78418,
-    "name": "Jay Vincent",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1989,
-    "stats": {
-      "PPG": 15.2,
-      "RPG": 5.5,
-      "APG": 2.0,
-      "SPG": 0.7,
-      "BPG": 0.3,
-      "PTS": 8729,
-      "REB": 3167,
-      "AST": 1124,
-      "STL": 413,
-      "BLK": 171,
-      "FG3M": 4,
-      "FG3_PCT": 14.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1641774,
     "name": "Tristan Vukcevic",
     "team": "WAS",
@@ -31875,31 +26900,6 @@
     }
   },
   {
-    "id": 78432,
-    "name": "Neal Walk",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1969,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 12.6,
-      "RPG": 7.7,
-      "APG": 2.1,
-      "SPG": 0.2,
-      "BPG": 0.2,
-      "PTS": 7157,
-      "REB": 4392,
-      "AST": 1214,
-      "STL": 140,
-      "BLK": 105,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 952,
     "name": "Antoine Walker",
     "team": "---",
@@ -31925,31 +26925,6 @@
     }
   },
   {
-    "id": 78435,
-    "name": "Chet Walker",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1962,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 18.2,
-      "RPG": 7.1,
-      "APG": 2.1,
-      "SPG": 0.1,
-      "BPG": 0.0,
-      "PTS": 18831,
-      "REB": 7314,
-      "AST": 2126,
-      "STL": 117,
-      "BLK": 10,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 7
-    }
-  },
-  {
     "id": 78437,
     "name": "Darrell Walker",
     "team": "---",
@@ -31969,31 +26944,6 @@
       "BLK": 225,
       "FG3M": 6,
       "FG3_PCT": 5.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78436,
-    "name": "Foots Walker",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1974,
-    "to_year": 1983,
-    "stats": {
-      "PPG": 6.4,
-      "RPG": 2.6,
-      "APG": 4.7,
-      "SPG": 1.5,
-      "BPG": 0.1,
-      "PTS": 4199,
-      "REB": 1686,
-      "AST": 3111,
-      "STL": 992,
-      "BLK": 83,
-      "FG3M": 10,
-      "FG3_PCT": 22.7,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -32047,31 +26997,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78439,
-    "name": "Jimmy Walker",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1967,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 16.7,
-      "RPG": 2.7,
-      "APG": 3.5,
-      "SPG": 0.4,
-      "BPG": 0.1,
-      "PTS": 11655,
-      "REB": 1860,
-      "AST": 2429,
-      "STL": 253,
-      "BLK": 36,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 2
     }
   },
   {
@@ -32350,31 +27275,6 @@
     }
   },
   {
-    "id": 78453,
-    "name": "Bobby Wanzer",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1948,
-    "to_year": 1956,
-    "stats": {
-      "PPG": 12.2,
-      "RPG": 3.5,
-      "APG": 3.2,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 6924,
-      "REB": 1979,
-      "AST": 1830,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 3,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 5
-    }
-  },
-  {
     "id": 369,
     "name": "Charlie Ward",
     "team": "---",
@@ -32422,56 +27322,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78466,
-    "name": "Jim Washington",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 10.6,
-      "RPG": 8.6,
-      "APG": 1.4,
-      "SPG": 0.1,
-      "BPG": 0.1,
-      "PTS": 8168,
-      "REB": 6637,
-      "AST": 1105,
-      "STL": 83,
-      "BLK": 100,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78467,
-    "name": "Kermit Washington",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1987,
-    "stats": {
-      "PPG": 9.2,
-      "RPG": 8.3,
-      "APG": 1.4,
-      "SPG": 0.8,
-      "BPG": 1.1,
-      "PTS": 4666,
-      "REB": 4232,
-      "AST": 695,
-      "STL": 403,
-      "BLK": 550,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 2,
-      "ALL_STAR": 1
     }
   },
   {
@@ -32650,31 +27500,6 @@
     }
   },
   {
-    "id": 78473,
-    "name": "Slick Watts",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1973,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 8.9,
-      "RPG": 3.2,
-      "APG": 6.1,
-      "SPG": 2.2,
-      "BPG": 0.3,
-      "PTS": 3901,
-      "REB": 1398,
-      "AST": 2678,
-      "STL": 961,
-      "BLK": 111,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 1,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 221,
     "name": "Clar. Weatherspoon",
     "team": "---",
@@ -32750,31 +27575,6 @@
     }
   },
   {
-    "id": 78481,
-    "name": "Marvin Webster",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1986,
-    "stats": {
-      "PPG": 7.1,
-      "RPG": 7.0,
-      "APG": 1.2,
-      "SPG": 0.4,
-      "BPG": 1.4,
-      "PTS": 4137,
-      "REB": 4044,
-      "AST": 722,
-      "STL": 219,
-      "BLK": 828,
-      "FG3M": 2,
-      "FG3_PCT": 33.3,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 78482,
     "name": "Scott Wedman",
     "team": "---",
@@ -32797,31 +27597,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 1,
       "ALL_STAR": 2
-    }
-  },
-  {
-    "id": 78485,
-    "name": "Bob Weiss",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1965,
-    "to_year": 1976,
-    "stats": {
-      "PPG": 7.6,
-      "RPG": 1.8,
-      "APG": 3.7,
-      "SPG": 0.4,
-      "BPG": 0.1,
-      "PTS": 5989,
-      "REB": 1398,
-      "AST": 2931,
-      "STL": 287,
-      "BLK": 52,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -32900,31 +27675,6 @@
     }
   },
   {
-    "id": 82,
-    "name": "Bill Wennington",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1985,
-    "to_year": 1999,
-    "stats": {
-      "PPG": 4.6,
-      "RPG": 3.0,
-      "APG": 0.6,
-      "SPG": 0.3,
-      "BPG": 0.3,
-      "PTS": 3301,
-      "REB": 2148,
-      "AST": 440,
-      "STL": 226,
-      "BLK": 248,
-      "FG3M": 5,
-      "FG3_PCT": 13.9,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1631104,
     "name": "Blake Wesley",
     "team": "POR",
@@ -32969,31 +27719,6 @@
       "BLK": 161,
       "FG3M": 1123,
       "FG3_PCT": 36.8,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78495,
-    "name": "Walt Wesley",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1966,
-    "to_year": 1975,
-    "stats": {
-      "PPG": 8.5,
-      "RPG": 5.5,
-      "APG": 0.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 5002,
-      "REB": 3243,
-      "AST": 385,
-      "STL": 16,
-      "BLK": 25,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -33250,31 +27975,6 @@
     }
   },
   {
-    "id": 78520,
-    "name": "Sidney Wicks",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1980,
-    "stats": {
-      "PPG": 16.8,
-      "RPG": 8.7,
-      "APG": 3.2,
-      "SPG": 0.8,
-      "BPG": 0.6,
-      "PTS": 12803,
-      "REB": 6620,
-      "AST": 2437,
-      "STL": 592,
-      "BLK": 432,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 4
-    }
-  },
-  {
     "id": 1630598,
     "name": "Aaron Wiggins",
     "team": "OKC",
@@ -33344,56 +28044,6 @@
       "BLK": 246,
       "FG3M": 0,
       "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78530,
-    "name": "Lenny Wilkens",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1960,
-    "to_year": 1974,
-    "stats": {
-      "PPG": 16.5,
-      "RPG": 4.7,
-      "APG": 6.7,
-      "SPG": 0.2,
-      "BPG": 0.0,
-      "PTS": 17772,
-      "REB": 5030,
-      "AST": 7211,
-      "STL": 174,
-      "BLK": 26,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 9
-    }
-  },
-  {
-    "id": 78531,
-    "name": "Bob Wilkerson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1976,
-    "to_year": 1982,
-    "stats": {
-      "PPG": 10.1,
-      "RPG": 4.2,
-      "APG": 3.4,
-      "SPG": 1.3,
-      "BPG": 0.3,
-      "PTS": 5424,
-      "REB": 2236,
-      "AST": 1835,
-      "STL": 671,
-      "BLK": 141,
-      "FG3M": 11,
-      "FG3_PCT": 16.7,
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
@@ -33800,31 +28450,6 @@
     }
   },
   {
-    "id": 420,
-    "name": "Jayson Williams",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1990,
-    "to_year": 1998,
-    "stats": {
-      "PPG": 7.3,
-      "RPG": 7.5,
-      "APG": 0.6,
-      "SPG": 0.4,
-      "BPG": 0.6,
-      "PTS": 3472,
-      "REB": 3584,
-      "AST": 287,
-      "STL": 204,
-      "BLK": 301,
-      "FG3M": 3,
-      "FG3_PCT": 12.5,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
-    }
-  },
-  {
     "id": 1629026,
     "name": "Kenrich Williams",
     "team": "OKC",
@@ -33972,31 +28597,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 1
-    }
-  },
-  {
-    "id": 78561,
-    "name": "Nate Williams",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1971,
-    "to_year": 1978,
-    "stats": {
-      "PPG": 12.0,
-      "RPG": 3.8,
-      "APG": 1.5,
-      "SPG": 0.8,
-      "BPG": 0.2,
-      "PTS": 7709,
-      "REB": 2469,
-      "AST": 963,
-      "STL": 543,
-      "BLK": 136,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
     }
   },
   {
@@ -34350,56 +28950,6 @@
     }
   },
   {
-    "id": 78614,
-    "name": "Mike Woodson",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1980,
-    "to_year": 1990,
-    "stats": {
-      "PPG": 14.0,
-      "RPG": 2.3,
-      "APG": 2.3,
-      "SPG": 1.2,
-      "BPG": 0.3,
-      "PTS": 10981,
-      "REB": 1838,
-      "AST": 1822,
-      "STL": 952,
-      "BLK": 275,
-      "FG3M": 120,
-      "FG3_PCT": 27.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78615,
-    "name": "Orlando Woolridge",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1981,
-    "to_year": 1993,
-    "stats": {
-      "PPG": 16.0,
-      "RPG": 4.3,
-      "APG": 1.9,
-      "SPG": 0.6,
-      "BPG": 0.7,
-      "PTS": 13623,
-      "REB": 3696,
-      "AST": 1609,
-      "STL": 553,
-      "BLK": 569,
-      "FG3M": 8,
-      "FG3_PCT": 9.1,
-      "ALL_NBA": 0,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 0
-    }
-  },
-  {
     "id": 1897,
     "name": "Metta World Peace",
     "team": "---",
@@ -34550,31 +29100,6 @@
     }
   },
   {
-    "id": 78628,
-    "name": "George Yardley",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1953,
-    "to_year": 1959,
-    "stats": {
-      "PPG": 19.2,
-      "RPG": 8.9,
-      "APG": 1.7,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 9063,
-      "REB": 4220,
-      "AST": 815,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 2,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 6
-    }
-  },
-  {
     "id": 1642443,
     "name": "Jahmir Young",
     "team": "MIA",
@@ -34697,31 +29222,6 @@
       "ALL_NBA": 0,
       "ALL_DEFENSIVE": 0,
       "ALL_STAR": 0
-    }
-  },
-  {
-    "id": 78638,
-    "name": "Max Zaslofsky",
-    "team": "---",
-    "is_active": false,
-    "from_year": 1946,
-    "to_year": 1955,
-    "stats": {
-      "PPG": 14.8,
-      "RPG": 1.6,
-      "APG": 2.0,
-      "SPG": 0.0,
-      "BPG": 0.0,
-      "PTS": 7990,
-      "REB": 864,
-      "AST": 1093,
-      "STL": 0,
-      "BLK": 0,
-      "FG3M": 0,
-      "FG3_PCT": 0.0,
-      "ALL_NBA": 4,
-      "ALL_DEFENSIVE": 0,
-      "ALL_STAR": 1
     }
   },
   {

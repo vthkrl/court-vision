@@ -227,10 +227,19 @@ def build_pool(candidates, stats_cache, awards_cache) -> list:
         if stats is None:
             continue
 
-        # Active players always included; retired players need >= 3 conditions
-        if is_active:
-            pass
-        else:
+        # Active players always included.
+        # Retired players use a tiered threshold based on era:
+        #   pre-1980: need 6+  (very few casual fans know these players)
+        #   1980s:    need 5+
+        #   1990s:    need 4+
+        #   2000s+:   need 3+
+        if not is_active:
+            to_year = player.get("to_year", 0)
+            if   to_year < 1980: threshold = 6
+            elif to_year < 1990: threshold = 5
+            elif to_year < 2000: threshold = 4
+            else:                threshold = 3
+
             conditions = sum([
                 stats["GP"]  >= 400,
                 stats["PTS"] >= 5000,
@@ -243,7 +252,7 @@ def build_pool(candidates, stats_cache, awards_cache) -> list:
                 awards["ALL_STAR"]      >= 1,
                 bool(awards["has_individual"]),
             ])
-            if conditions < 3:
+            if conditions < threshold:
                 continue
 
         gp   = max(stats["GP"], 1)
